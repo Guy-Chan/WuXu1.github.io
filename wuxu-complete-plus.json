@@ -77,20 +77,27 @@
       "developerName" : "Kanji",
       "subtitle" : "The best paid tweak for Snapchat!",
       "localizedDescription" : "THIS TWEAK IS PAID (NOT FREE). Please join Kanji's official Discord to pay for the tweak and to see the most up-to-date feature list. This will support the dev in his work by providing us with frequent and useful updates.\n\nNote: Notifications may not work.\n\niota supports: iPhone 6s and above | iOS 13.0 and above\n\nAfter joining the Discord, you can purchase iota for a one-time fee of $11.99 from https://discord.com/channels/1081620692316999740/shop\n\n \nFeatures\n\nCHAT:\n\n“Chat Ghost”: Read chats without marking them as read.\n“Hide Bitmoji”: Hide your bitmoji when in chat.\n“Screenshot/Record Suppression”: Suppress screenshot/screen record notifications.\n“No Typing Notifications”: When typing a message, this won’t notify the recipient.\n“Auto Save Chats”: Automatically save all chats.\n“Auto Save Delay”: Delay between each auto-save in seconds.\n“Upload Audio Note”: Tap voice recording button to upload audio notes.\n“Auto Save Audio Note”: Automatically save audio notes after playing them to completion.\n“Keep Snaps”: Snaps sent or received will be shown in chat, only for you.\n“Confirm Calls”: Show a confirmation dialog before making calls.\n“Hide Call Buttons”: Hide the call buttons in chat.\n“Streak Expiry Timer”: Show streak timer for current streaks.\n“Ignore Deleted Chats”: Stop chats from being deleted.\n“Deleted Chat Color”: Color for deleted chats.\n \n\nUPLOAD - SAVE - SEEN:\n\n“Upload Button”: Show an overlay button to upload media from camera roll.\n“Long Uploads”: Upload videos longer than 10 seconds as one Snap.\n“Save Media”: Choose whether you’d like to save snaps/stories to camera roll or to a local folder.\n“Save Folder”: Open the local folder where you save snaps/stories\n“Saved Audio Notes Folder”: Open the local folder where you saved audio notes too.\n“Skip on Seen”: Skip to the next snap when marked as seen.\n“Stories Auto-Seen”: Automatically mark all non-friend stories as seen.\n“Snap Ghost”: Use a button to manually mark snaps as seen.\n“Story Ghost”: Use a button to manually mark stories as seen.\n \n\nADDITIONS:\n\n“Experiment Stuff”: Enable Snapchat experiments.\n“Enable Snapchat+”: Spoof Snapchat+ Subscription.\n“Disable Ads”: Block all Snapchat advertisements.\n“Branding”: Show iota name and version at the bottom of Snapchat settings.\n“Button Size”: Change the pixel size of all iota buttons.\n“Hide Title”: Hide iota’s title and subtitle from main pages.\n“Hide Subtitle”: Hide subtitle text under the iota header title.\n“Randomize Subtitle”: Randomize the subtitle text.\n“Custom Title”: Enter any text you want as the iota header title text.\n“RGB Animation”: Make some iota aspects go gamer mode.\n“Pull To Refresh”: Customize the pull to refresh ghost.\n“Ghost Theme”: Choose a custom ghost theme.\n \n\nSPOOF:\n\n“”By Search” Spoof”: Spoof “By Search” text when adding people.\n“Spoof Location”: Toggle whether you’d like to spoof your location.\n“Pick Location”: Pick the new spoofed location.\n“Teleport to Friends”: Tap a friend on the SnapMap to teleport to them.\n“Spoof Story Views”: Spoof the number of story views.\n“Spoof Story Screenshots”: Spoof the number of story screenshots.\n \n\nINTERFACE:\n\n“Load Banner”: Show a banner when iota is fully loaded.\n“Show Banners”: Show native Snapchat banners when doing certain actions.\n“Lock Buttons”: Lock the position of the buttons and disable movement.\n“No Map Swipe”: Disable swiping to SnapMap.\n“Open Link Default”: Open links in Safari.\n“Hide New Chat Button”: Hide the blue button on the bottom of recent UI versions.\n“Hide Discover”: Remove the Discover Stories section.\n“Chat Swipe”: Swipe on any part of the chat to open it.\n“Loop Media”: Content will loop rather than skip to the next.\n \n\nFeatures are always subject to change depending on Snapchat updates.",
-      "iconURL" : "https://static.appdb.to/images/cydia-1900001260-icon-1695917055.png",
-      "tintColor" : "e968a8",
+      "iconURL" : "https://i.imgur.com/B4SZCDc.png",
+      "tintColor" : "fa6bb3",
       "screenshotURLs" : [
         "https://imgur.com/NLuR1A3.png",
         "https://imgur.com/O5V36zL.png",
         "https://imgur.com/SuTIKWA.png",
         "https://imgur.com/4LBXEgm.png"
       ],
-      "version" : "12.55.0",
-      "versionDate" : "2023-10-19",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.55.0.+.iota.v4.0.ipa",
-      "versionDescription" : "• Updated Snapchat to v12.40.0\n• Updated iota to v4.0.0",
+      "version" : "12.65.1",
+      "versionDate" : "2024-01-07",
+      "downloadURL" : "https://cdn.discordapp.com/attachments/948766176492802102/1188899493727445122/iota_12.65.1.ipa?ex=659c33ef&is=6589beef&hm=25a550b5dc824cbea8ab245cf3df6254b740c69c8e38d4925ceccc1dfba81c08&",
+      "versionDescription" : "IOTA v4.6 HAS BEEN RELEASED\n\nChangelog:\n\n• Full support for Snapchat v12.65.1 (up to v12.67.0 on TestFlight).\n• Added 'Auto Save Chats' to the quick settings menu.\n• Added haptic feedback on iota's buttons when 'Haptic feedback' is enabled.\n• Added an Easter Egg.\n• Added an option to toggle if you specifically want to auto save chats along with media, or just media (vise versa).\n• Made the scroll bar show up in the chats list.\n• Made a UI change to iota's settings buttons.\n• Fixed a bug where iota menus won't keep opening on top of each other.\n• Rewrote the 'No Discover' feature to hopefully be more stable.\n• Optimized numerous functions to improve performance.\n• Refactored the ban bypass.",
       "size" : 97520000,
       "versions" : [
+        {
+          "version" : "12.65.1",
+          "date" : "2024-01-07",
+          "localizedDescription" : "IOTA v4.6 HAS BEEN RELEASED\n\nChangelog:\n\n• Full support for Snapchat v12.65.1 (up to v12.67.0 on TestFlight).\n• Added 'Auto Save Chats' to the quick settings menu.\n• Added haptic feedback on iota's buttons when 'Haptic feedback' is enabled.\n• Added an Easter Egg.\n• Added an option to toggle if you specifically want to auto save chats along with media, or just media (vise versa).\n• Made the scroll bar show up in the chats list.\n• Made a UI change to iota's settings buttons.\n• Fixed a bug where iota menus won't keep opening on top of each other.\n• Rewrote the 'No Discover' feature to hopefully be more stable.\n• Optimized numerous functions to improve performance.\n• Refactored the ban bypass.",
+          "downloadURL" : "https://cdn.discordapp.com/attachments/948766176492802102/1188899493727445122/iota_12.65.1.ipa?ex=659c33ef&is=6589beef&hm=25a550b5dc824cbea8ab245cf3df6254b740c69c8e38d4925ceccc1dfba81c08&",
+          "size" : 97520000
+        },
         {
           "version" : "12.55.0",
           "date" : "2023-10-19",
@@ -530,11 +537,11 @@
       "notify" : true
     },
     {
-      "title" : "Snapchat iota Added!",
-      "identifier" : "snapchat-iota-added",
-      "caption" : "Snapchat iota, the best paid Snapchat tweak has been added to the source! Click here for more info",
-      "date" : "2023-10-19",
-      "tintColor" : "572a40",
+      "title" : "Snapchat iota Updated!",
+      "identifier" : "snapchat-iota-updated",
+      "caption" : "Snapchat iota, has been updated! Click here for more info",
+      "date" : "2024-01-07",
+      "tintColor" : "fa6bb3",
       "imageURL" : "https://imgur.com/JzTjP1W.png",
       "appID" : "com.toyopagroup.picaboo-iota",
       "notify" : true

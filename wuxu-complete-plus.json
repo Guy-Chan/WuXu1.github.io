@@ -23,12 +23,19 @@
         "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-4.webp",
         "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-5.webp"
       ],
-      "version" : "10.10",
-      "versionDate" : "2023-10-19",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.X.v10.10.+.BHX.v4.0.ipa",
-      "versionDescription" : "• Updated X to v10.10",
+      "version" : "10.22.0",
+      "versionDate" : "2024-01-07",
+      "downloadURL" : "https://starfilesdl.com/file/m1rSEUEHz83q?fpdi_ticket=RXgrRkx5dHhGcmJrcFVtVVh4VmtaZE1VdHZLN0trTng2SUY3NTdWekErY2wwOTYwMlBYRUJvMFJKVjlqLyszWXQ1d2pxeHhhc2dJQVBRQ28zSDFVUXdqYTRSMXlDajcySmxBcG9lRlZYVnVxaDA1ZWxsNjJnWCtSNlFqWVpXdmNDZWJBNFpmY3VZZVNGa1BsRFYyQ01nPT0%3D",
+      "versionDescription" : "• Updated X to v10.22.0",
       "size" : 93000000,
       "versions" : [
+        {
+          "version" : "10.22.0",
+          "date" : "2024-01-07",
+          "localizedDescription" : "• Updated X to v10.22.0",
+          "downloadURL" : "https://starfilesdl.com/file/m1rSEUEHz83q?fpdi_ticket=RXgrRkx5dHhGcmJrcFVtVVh4VmtaZE1VdHZLN0trTng2SUY3NTdWekErY2wwOTYwMlBYRUJvMFJKVjlqLyszWXQ1d2pxeHhhc2dJQVBRQ28zSDFVUXdqYTRSMXlDajcySmxBcG9lRlZYVnVxaDA1ZWxsNjJnWCtSNlFqWVpXdmNDZWJBNFpmY3VZZVNGa1BsRFYyQ01nPT0%3D",
+          "size" : 93000000
+        },
         {
           "version" : "10.10",
           "date" : "2023-10-19",
@@ -519,7 +526,7 @@
     {
       "appID" : "com.atebits.Tweetie2",
       "caption" : "X++ has been updated to the latest version! Click Here for more info",
-      "date" : "2023-10-19",
+      "date" : "2024-01-07",
       "identifier" : "x-updated",
       "imageURL" : "https://imgur.com/fTtIng1.png",
       "notify" : true,
@@ -541,7 +548,7 @@
       "identifier" : "snapchat-iota-updated",
       "caption" : "Snapchat iota, has been updated! Click here for more info",
       "date" : "2024-01-07",
-      "tintColor" : "fa6bb3",
+      "tintColor" : "572a40",
       "imageURL" : "https://imgur.com/JzTjP1W.png",
       "appID" : "com.toyopagroup.picaboo-iota",
       "notify" : true

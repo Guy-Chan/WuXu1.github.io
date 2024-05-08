@@ -3,8 +3,8 @@
   "identifier" : "com.wuxulibs.wuxuslibrary++",
   "subtitle" : "The Most Up-To-Date IPA Library on AltStore.",
   "description" : "Welcome to WuXu’s Library++!\n\nThis source contains all your favourite tweaked apps, free streaming, cracked apps, and more!\n\nThis highly organised AltSource is made up of many different tweaked apps that I, myself, inject each and every deb/dylib (tweak) into. While making sure everything is working perfectly and to my standards.\n\nThis source is updated 2-3 times a week, or more depending on the urgency. But I am working on automating updates through a python bot which I am close to completing.\n\nIf you enjoy my source please spread the word, this is essentially an updated QuarkSources, and I would like it to be as big, if not, bigger!\n\nTo make requests, get support or chat with other users, join the discord server! https://discord.gg/nKXsSdbEDc\n\nWuXu’s Sources Official Website: https://wuxu1.github.io/",
-  "iconURL" : "https://i.imgur.com/g17kMl9.png",
-  "headerURL" : "https://i.pinimg.com/736x/2e/4c/7c/2e4c7cc6b2a52a3113b6f1328d9d1e97.jpg",
+  "iconURL" : "https://i.imgur.com/g17kMl9.jpeg",
+  "headerURL" : "https://i.imgur.com/stTk5jP.jpeg",
   "website" : "https://bit.ly/wuxus-sources",
   "tintColor" : "d81a14",
   "apps" : [
@@ -14,7 +14,7 @@
       "developerName" : "BandarHL",
       "subtitle" : "An awesome tweak for X!",
       "localizedDescription" : "Features:\n\n• Download Videos (even if account private).\n• Replay later feature.\n• Video zoom feature.\n• No history feature.\n• Hide topics tweet feature.\n• Disable video layer caption.\n• Padlock.\n• Font changer.\n• Auto load photos in highest quality feature\n• Undo tweet feature.\n• Reader mode feature.\n• Disable new tweet style (A.K.A edge to edge tweet)\n• Enable voice tweet and voice message in DM.\n• Hide promoted tweet from the timeline.\n• Confirm alert when hit the tweet button.\n• Confirm alert when hit like button.\n• FLEX for debugging.\n\n• And more!",
-      "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/38/57/3d38572c-dc1e-a672-93d2-cef92ca90297/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "iconURL" : "https://i.imgur.com/HjyhiOC.jpeg",
       "tintColor" : "030303",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-1.webp",
@@ -108,11 +108,11 @@
       "iconURL" : "https://img.ipa4fun.com/06/ac/ac/835599320-logo.webp",
       "tintColor" : "0b0b0b",
       "screenshotURLs" : [
-        "https://i.imgur.com/PMPlQVa_d.png",
-        "https://i.imgur.com/YN0hG8M_d.png",
-        "https://i.imgur.com/pmXZBpB_d.png",
-        "https://i.imgur.com/bia0rue_d.png",
-        "https://i.imgur.com/tJtEO1r_d.png"
+        "https://i.imgur.com/PMPlQVa.jpeg",
+        "https://i.imgur.com/YN0hG8M.jpeg",
+        "https://i.imgur.com/pmXZBpB.jpeg",
+        "https://i.imgur.com/bia0rue.jpeg",
+        "https://i.imgur.com/tJtEO1r.jpeg"
       ],
       "version" : "32.2.0",
       "versionDate" : "2024-04-30",
@@ -298,7 +298,7 @@
       "developerName" : "Rov3r",
       "subtitle" : "SoundCloud with no ads!",
       "localizedDescription" : "Enhance your SoundCloud experience with the following features:\n\n• Remove Ads\n• Remove Promoted Playlists\n• Remove Upsell Buttons\n\n\nHOW TO INSTALL IF NOT WORKING\n\n(iOS 15):\n\n1. Download the REGULAR SoundCloud app from the app store (IMPORTANT)\n2. Sign in to the app\n3. Delete the app while still signed in\n4. Download the IPA (app file) from the table below.\n5. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n6. Once installed, you can enjoy, as you should be logged in already.\n\n\n(iOS 16):\n\n1. Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.\n2. Download the IPA (app file) from the table below.\n3. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n4. Sign in using your Google or Facebook account\n5. Use the same method uYou used for bypassing the unsafe installation login error\n\n\n(iOS 16) [Method 2]:\n\n1. Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.\n2. Download the REGULAR SoundCloud app from the AppStore\n3. Sign in to the app using Google or Facebook Account sign-in\n4. Delete the app while still signed in\n5. Download the IPA (app file) from the table below.\n6. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n7. Once installed, you can enjoy, as you should be logged in already.",
-      "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bf/16/a8/bf16a822-367b-6058-e9ec-697b0b196355/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+      "iconURL" : "https://i.imgur.com/a0VxTYB.jpeg",
       "tintColor" : "0a0a0a",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-1.webp",
@@ -378,11 +378,11 @@
       "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
       "tintColor" : "f90505",
       "screenshotURLs" : [
-        "https://i.imgur.com/5QTi2o4.png",
-        "https://i.imgur.com/9Jz3BxT.png",
-        "https://i.imgur.com/xfIkANo.png",
-        "https://i.imgur.com/pUZrDLr.png",
-        "https://i.imgur.com/oLav2ob.png"
+        "https://i.imgur.com/5QTi2o4.jpeg",
+        "https://i.imgur.com/9Jz3BxT.jpeg",
+        "https://i.imgur.com/xfIkANo.jpeg",
+        "https://i.imgur.com/pUZrDLr.jpeg",
+        "https://i.imgur.com/oLav2ob.jpeg"
       ],
       "version" : "19.16.3",
       "versionDate" : "2024-04-30",
@@ -420,7 +420,7 @@
       "developerName" : "Laxus",
       "subtitle" : "Duolingo with Super Duolingo Activated!",
       "localizedDescription" : "Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.\n\nWhether you’re learning a language for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.\n\nWhy Duolingo?\n• Duolingo is fun and effective. Game-like lessons and fun characters help you build solid speaking, reading, listening, and writing skills.\n\n• Duolingo works. Designed by language experts, Duolingo has a science-based teaching methodology proven to foster long-term language retention.\n\n• Track your progress. Work toward your language learning goals with playful rewards and achievements when you make practicing a daily habit!\n\n• Join 300+ million learners. Stay motivated with competitive Leaderboards as you learn alongside our global community.\n\n• Every language course is free. Learn Spanish, French, German, Italian, Russian, Portuguese, Turkish, Dutch, Irish, Danish, Swedish, Ukrainian, Esperanto, Polish, Greek, Hungarian, Norwegian, Hebrew, Welsh, Arabic, Latin, Hawaiian, Scottish Gaelic, Vietnamese, Korean, Japanese, English, and even High Valyrian!",
-      "iconURL" : "https://cdn.jim-nielsen.com/ios/1024/duolingo-2019-01-02.png",
+      "iconURL" : "https://i.imgur.com/gl8jTYA.jpeg",
       "tintColor" : "7cd404",
       "screenshotURLs" : [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/85/3c/6d/853c6dcc-509f-af17-1a68-5a14a1ddfcd6/tns.lgtxetwx.png/314x0w.webp",
@@ -489,7 +489,7 @@
       "caption" : "Due to recent snapchat updates, tweaks have become unusable and bannable. Each tweak dev is currently working on a fix and I will post them here when they do.",
       "date" : "2024-04-30",
       "tintColor" : "e2e204",
-      "imageURL" : "https://i.imgur.com/Z7cCbfj.png",
+      "imageURL" : "https://i.imgur.com/Z7cCbfj.jpeg",
       "notify" : true
     },
     {
@@ -498,7 +498,7 @@
       "caption" : "X++ has been updated to the latest version! Click Here for more info",
       "date" : "2024-04-30",
       "tintColor" : "0f0f0f",
-      "imageURL" : "https://i.imgur.com/fTtIng1.png",
+      "imageURL" : "https://i.imgur.com/fTtIng1.jpeg",
       "appID" : "com.atebits.Tweetie2",
       "notify" : true
     },
@@ -508,7 +508,7 @@
       "caption" : "Facebook++ has been updated to the latest version, click here for more info",
       "date" : "2024-04-30",
       "tintColor" : "153267",
-      "imageURL" : "https://i.imgur.com/Vh2sSPk.png",
+      "imageURL" : "https://i.imgur.com/Vh2sSPk.jpeg",
       "appID" : "com.facebook.Facebook",
       "notify" : true
     },
@@ -518,7 +518,7 @@
       "caption" : "TikTok++ has been updated to the latest version, click here for more info",
       "date" : "2024-04-30",
       "tintColor" : "131313",
-      "imageURL" : "https://i.imgur.com/xFBKw7B_d.png",
+      "imageURL" : "https://i.imgur.com/xFBKw7B.jpeg",
       "appID" : "com.zhiliaoapp.musically",
       "notify" : false
     },
@@ -528,7 +528,7 @@
       "caption" : "Instagram has been updated to the latest version, click here for more info",
       "date" : "2024-04-30",
       "tintColor" : "5c1859",
-      "imageURL" : "https://www.91-cdn.com/hub/wp-content/uploads/2022/05/Instagram-logo-1200x900.jpg",
+      "imageURL" : "https://i.imgur.com/a/tATkeOT.jpeg",
       "appID" : "com.burbn.instagram",
       "notify" : false
     },
@@ -538,7 +538,7 @@
       "caption" : "MyFitnessPal++ has been updated to the latest version, click here for more info",
       "date" : "2024-04-30",
       "tintColor" : "113361",
-      "imageURL" : "https://i.imgur.com/xrzvPez.png",
+      "imageURL" : "https://i.imgur.com/xrzvPez.jpeg",
       "appID" : "com.myfitnesspal.mfp",
       "notify" : true
     },
@@ -548,7 +548,7 @@
       "caption" : "BeReal++ has been updated to the latest version, click here for more info",
       "date" : "2024-04-30",
       "tintColor" : "131313",
-      "imageURL" : "https://techcrunch.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-22-at-4.11.51-PM.jpg",
+      "imageURL" : "https://i.imgur.com/a/2dfx0xH.jpeg",
       "appID" : "AlexisBarreyat.BeReal",
       "notify" : true
     },
@@ -558,7 +558,7 @@
       "caption" : "Deezer, with premium activated, has been added to the source! This may be the last update as the tweak dev no longer updates the tweak.",
       "date" : "2023-10-22",
       "tintColor" : "0e0e0e",
-      "imageURL" : "https://i.imgur.com/XlbkA6u.png",
+      "imageURL" : "https://i.imgur.com/XlbkA6u.jpeg",
       "appID" : "com.deezer.Deezer",
       "notify" : false
     },
@@ -568,17 +568,17 @@
       "caption" : "SoundCloud++ has been updated to the latest working version, click here for more info",
       "date" : "2023-10-22",
       "tintColor" : "131313",
-      "imageURL" : "https://i.imgur.com/5pl1dGh.png",
+      "imageURL" : "https://i.imgur.com/5pl1dGh.jpeg",
       "appID" : "com.soundcloud.TouchApp",
       "notify" : true
     },
     {
       "title" : "Spotify++ Updated!",
       "identifier" : "spotify-updated",
-      "caption" : "A new tweak made Eevee, who reverse-engineered the original spotilife tweak to work on newer versions of Spotify. Click here for more info",
+      "caption" : "Spotify++ has been updated to the latest version! Click here for more info",
       "date" : "2024-05-08",
       "tintColor" : "0e6a32",
-      "imageURL" : "https://i.imgur.com/NvxAusn.png",
+      "imageURL" : "https://i.imgur.com/NvxAusn.jpeg",
       "appID" : "com.spotify.client",
       "notify" : true
     },
@@ -588,7 +588,7 @@
       "caption" : "YouTube++ has been updated to the latest version, downloading fixed. Click here for more info",
       "date" : "2024-04-30",
       "tintColor" : "af0001",
-      "imageURL" : "https://i.imgur.com/W7zL04X.png",
+      "imageURL" : "https://i.imgur.com/W7zL04X.jpeg",
       "appID" : "com.google.ios.youtube",
       "notify" : true
     },
@@ -598,7 +598,7 @@
       "caption" : "Duolingo with Super Duolingo enabled has been added to the source, click here for more info",
       "date" : "2023-10-23",
       "tintColor" : "244200",
-      "imageURL" : "https://blog.duolingo.com/content/images/2022/10/Duolingo-Character-Wordmark.png",
+      "imageURL" : "https://i.imgur.com/icxcPrT.jpeg",
       "appID" : "com.duolingo.DuolingoMobile",
       "notify" : true
     },
@@ -608,7 +608,7 @@
       "caption" : "Messenger injected with Shark has been added to the source, click here for more info",
       "date" : "2023-10-23",
       "tintColor" : "532552",
-      "imageURL" : "https://i.imgur.com/FAl2VYQ.png",
+      "imageURL" : "https://i.imgur.com/FAl2VYQ.jpeg",
       "appID" : "com.facebook.Messenger",
       "notify" : true
     }

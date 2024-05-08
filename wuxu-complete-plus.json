@@ -349,13 +349,13 @@
       "version" : "8.9.36",
       "versionDate" : "2024-05-08",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.36.+.Eevee.v2.1.ipa",
-      "versionDescription" : "• Fixed app crashing when opening the player\n• EeveeSpotify now replaces Spotify monthly limited lyrics with Genius!\n• Updated Spotify to v8.9.36",
+      "versionDescription" : "• Fixed app crashing when opening the player\n• EeveeSpotify now replaces Spotify monthly limited lyrics with Genius!\n• Added OpenWithSpotify extension to open Spotify links in safari (must be enabled)\n• Updated Spotify to v8.9.36",
       "size" : 69100000,
       "versions" : [
         {
           "version" : "8.9.36",
           "date" : "2024-05-08",
-          "localizedDescription" : "• Fixed app crashing when opening the player\n• EeveeSpotify now replaces Spotify monthly limited lyrics with Genius!\n• Updated Spotify to v8.9.36",
+          "localizedDescription" : "• Fixed app crashing when opening the player\n• EeveeSpotify now replaces Spotify monthly limited lyrics with Genius!\n• Added OpenWithSpotify extension to open Spotify links in safari (must be enabled)\n• Updated Spotify to v8.9.36",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.36.+.Eevee.v2.1.ipa",
           "size" : 69100000
         },

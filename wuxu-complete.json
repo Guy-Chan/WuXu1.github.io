@@ -449,11 +449,11 @@
       "beta" : false
     },
     {
-      "name" : "Null's Clash",
+      "name" : "Clash of Clans (Modded)",
       "bundleIdentifier" : "com.supercell.magic",
-      "developerName" : "Null's",
+      "developerName" : "Astrasis",
       "subtitle" : "A modded Clash of Clans server!",
-      "localizedDescription" : "This is a modded Clash of Clans private server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\n\n\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\nModded by Ksyrex. His Telegram group➡️ https://t.me/+wwYy4wEMS1gwMTAy",
+      "localizedDescription" : "This is a modded Clash of Clans private server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\n\nNOTE: IF THE APP REQUIRES AN UPDATE, REINSTALL FROM THIS LINK AS THE DOWNLOAD URL IS ALWAYS THE LATEST AND I DO NOT MANUALLY CHANGE IT.\n\nTO KEEP YOUR PROGRESS, MAKE AN ATRASIS ID, ITS DONE THE SAME AS IF YOU ARE MAKING A SUPERCELL ID, AND SIGN IN AFTER REINSTALLING\n\n\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\nModded by Ksyrex. His Telegram group➡️ https://t.me/+wwYy4wEMS1gwMTAy",
       "iconURL" : "https://img.ipa4fun.com/cc/d5/84/529479190-logo.webp",
       "tintColor" : "1f042b",
       "category" : "games",
@@ -466,18 +466,18 @@
         "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-6.webp",
         "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-7.webp"
       ],
-      "version" : "15.83.19",
-      "versionDate" : "2023-04-05",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.of.Clans.Null.s.v15.83.19.ipa",
-      "versionDescription" : "• Updated Clash of Clans to v15.83.19",
+      "version" : "latest",
+      "versionDate" : "2024-05-10",
+      "downloadURL" : "https://atrasisclash.net/server-original-ios-download-ipa.php",
+      "versionDescription" : "• Link now only installs latest version.",
       "size" : 277000000,
       "versions" : [
         {
-          "date" : "2023-04-05",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.of.Clans.Null.s.v15.83.19.ipa",
-          "localizedDescription" : "• Updated Clash of Clans to v15.83.19",
+          "date" : "2024-05-10",
+          "downloadURL" : "https://atrasisclash.net/server-original-ios-download-ipa.php",
+          "localizedDescription" : "• Link now only installs latest version.",
           "size" : 277000000,
-          "version" : "15.83.19"
+          "version" : "latest"
         }
       ],
       "beta" : false
@@ -755,7 +755,7 @@
       "title" : "Clash of Clans Added!",
       "identifier" : "clashofclans-added",
       "caption" : "Clash of Clans on a modded server has been added to the source! Unlimited gems, elixir and gold! ",
-      "date" : "2023-04-05",
+      "date" : "2024-05-10",
       "tintColor" : "123047",
       "imageURL" : "https://i.imgur.com/pS8xh2f.jpeg",
       "appID" : "com.supercell.magic",

@@ -347,18 +347,18 @@
         "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-7.webp",
         "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-8.webp"
       ],
-      "version" : "7.14.0",
+      "version" : "7.10.2",
       "versionDate" : "2024-05-10",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.14.0.+.SCMusicPlus.v2.2.1.ipa",
-      "versionDescription" : "• Updated SoundCloud to v7.14.0",
-      "size" : 57600000,
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.10.2.+.SCMusicPlus.v2.2.1.ipa",
+      "versionDescription" : "• Updated SoundCloud to v7.10.2",
+      "size" : 70700000,
       "versions" : [
         {
-          "version" : "7.14.0",
+          "version" : "7.10.2",
           "date" : "2024-05-10",
-          "localizedDescription" : "• Updated SoundCloud to v7.14.0",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.14.0.+.SCMusicPlus.v2.2.1.ipa",
-          "size" : 57600000
+          "localizedDescription" : "• Updated SoundCloud to v7.10.2",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.10.2.+.SCMusicPlus.v2.2.1.ipa",
+          "size" : 70700000
         },
         {
           "version" : "7.2.0",

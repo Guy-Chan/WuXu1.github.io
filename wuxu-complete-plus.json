@@ -378,6 +378,7 @@
       "localizedDescription" : "This tweak makes Spotify think that you have a Premium subscription, granting free listening, just like Spotilife.\n\nAlthough there are restrictions:\n\n• Using \"Very High\" audio quality\n• Downloading songs/playlists (podcast downloads work, though)\n",
       "iconURL" : "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.webp",
       "tintColor" : "1fd362",
+      "category" : "entertainment",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.webp",
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-2.webp",
@@ -418,6 +419,38 @@
           "size" : 65900000
         }
       ],
+      "appPermissions" : {
+        "entitlements" : [
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.carplay-audio",
+          "get-task-allow",
+          "com.apple.developer.group-session",
+          "com.apple.developer.healthkit",
+          "keychain-access-groups",
+          "com.apple.developer.networking.multicast",
+          "aps-environment",
+          "com.apple.developer.healthkit.access",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.siri",
+          "com.apple.developer.networking.wifi-info"
+        ],
+        "privacy" : {
+          "NSAppleMusicUsageDescription" : "App accesses Apple Music for streaming music.",
+          "NSBluetoothAlwaysUsageDescription" : "App requires continuous access to Bluetooth.",
+          "NSBluetoothPeripheralUsageDescription" : "App uses Bluetooth for peripheral devices.",
+          "NSCameraUsageDescription" : "App uses the camera for capturing photos or videos.",
+          "NSFaceIDUsageDescription" : "App uses Face ID for authentication.",
+          "NSHealthUpdateUsageDescription" : "App updates health-related data in Health.",
+          "NSHealthShareUsageDescription" : "App shares health-related data with Health.",
+          "NSLocalNetworkUsageDescription" : "App accesses devices on the local network.",
+          "NSMicrophoneUsageDescription" : "App uses the microphone to record audio.",
+          "NSMotionUsageDescription" : "App uses motion sensors for tracking movement.",
+          "NSPhotoLibraryAddUsageDescription" : "App adds photos to the user's photo library.",
+          "NSPhotoLibraryUsageDescription" : "App accesses the user's photo library.",
+          "NSUserTrackingUsageDescription" : "App tracks user activity for advertising purposes."
+        }
+      },
       "beta" : false
     },
     {

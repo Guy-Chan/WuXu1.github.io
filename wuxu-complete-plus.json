@@ -330,47 +330,6 @@
       "beta" : false
     },
     {
-      "name" : "SoundCloud++",
-      "bundleIdentifier" : "com.soundcloud.TouchApp",
-      "developerName" : "Rov3r",
-      "subtitle" : "SoundCloud with no ads!",
-      "localizedDescription" : "YOU MUST SIGN IN WITH FACEBOOK OR APPLE FOR THE TWEAK TO WORK\n\nEnhance your SoundCloud experience with the following features:\n\n• Remove Ads\n• Remove Promoted Playlists\n• Remove Upsell Buttons\n\n\nHOW TO INSTALL IF NOT WORKING\n\n(iOS 15):\n\n1. Download the REGULAR SoundCloud app from the app store (IMPORTANT)\n2. Sign in to the app\n3. Delete the app while still signed in\n4. Download the IPA (app file) from the table below.\n5. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n6. Once installed, you can enjoy, as you should be logged in already.\n\n\n(iOS 16):\n\n1. Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.\n2. Download the IPA (app file) from the table below.\n3. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n4. Sign in using your Google or Facebook account\n5. Use the same method uYou used for bypassing the unsafe installation login error\n\n\n(iOS 16) [Method 2]:\n\n1. Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.\n2. Download the REGULAR SoundCloud app from the AppStore\n3. Sign in to the app using Google or Facebook Account sign-in\n4. Delete the app while still signed in\n5. Download the IPA (app file) from the table below.\n6. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n7. Once installed, you can enjoy, as you should be logged in already.",
-      "iconURL" : "https://i.imgur.com/a0VxTYB.jpeg",
-      "tintColor" : "0a0a0a",
-      "screenshotURLs" : [
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-1.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-2.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-3.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-4.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-5.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-6.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-7.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-8.webp"
-      ],
-      "version" : "7.10.2",
-      "versionDate" : "2024-05-10",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.10.2.+.SCMusicPlus.v2.2.1.ipa",
-      "versionDescription" : "• Updated SoundCloud to v7.10.2",
-      "size" : 70700000,
-      "versions" : [
-        {
-          "version" : "7.10.2",
-          "date" : "2024-05-10",
-          "localizedDescription" : "• Updated SoundCloud to v7.10.2",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.10.2.+.SCMusicPlus.v2.2.1.ipa",
-          "size" : 70700000
-        },
-        {
-          "version" : "7.2.0",
-          "date" : "2023-10-22",
-          "localizedDescription" : "• Updated SoundCloud to v7.2.0",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.2.0.+.SCMusicPlus.v2.2.1.ipa",
-          "size" : 47600000
-        }
-      ],
-      "beta" : false
-    },
-    {
       "name" : "Spotify++ (NEW)",
       "bundleIdentifier" : "com.spotify.client",
       "developerName" : "Eevee",
@@ -657,9 +616,9 @@
       "notify" : false
     },
     {
-      "title" : "SoundCloud++ Updated!",
-      "identifier" : "soundcloud-updated",
-      "caption" : "SoundCloud++ has been updated to the latest working version, click here for more info",
+      "title" : "SoundCloud++ is no more",
+      "identifier" : "soundcloud-removed",
+      "caption" : "SoundCloud++ has recently patched its ability to be sideloaded, therefore i've had to remove the app.",
       "date" : "2024-05-10",
       "tintColor" : "131313",
       "imageURL" : "https://i.imgur.com/5pl1dGh.jpeg",

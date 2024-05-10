@@ -100,6 +100,43 @@
       "beta" : false
     },
     {
+      "name" : "Snapchat Wicked",
+      "bundleIdentifier" : "com.toyopagroup.picaboo-Wicked",
+      "developerName" : "Hearse",
+      "subtitle" : "A Cracked Snapchat Tweak with many features!",
+      "localizedDescription" : "Snapchat Wicked (Cracked)\n\nActivate Crack by entering any 15-character email and license when prompted\n\nNote: Notifications may not work.\n\nFEATURES:\n\n\nSAVE/UPLOAD/SEEN FEATURES\n\nSuppress Save to Camera Roll → Suppress notification for saving media in camera roll from chat. Allows for batch saving. (Works only inside chat) Upload Button → Show an overlay button to upload media (Requires restart). Image Editor → Built in image editor when uploading images. Save Button → Show an overlay button to save media. Save Snaps in Folder → Save snaps in a folder organized by usernames instead of gallery. Open Folder → Open saved snaps folder Seen Button For Snaps → Show an overlay button to mark snaps as seen. Seen Button For Stories → Show an overlay button to mark stories as seen. Skip on Seen → Skip to the next snap when marked as seen. Alternatively, pressing the button again will mark as unseen. Stories Auto-Seen → Automatically mark all non-friends stories as seen. ▬▬▬▬▬▬▬▬▬▬▬▬\n\nAUDIO FEATURES\n\nUpload Voice Note → Tap voice note button to upload voice notes. Save Voice Messages → Hold audio message to save in files ▬▬▬▬▬▬▬▬▬▬▬▬\n\nCHAT FEATURES\n\nAuto Save Chat → Automatically save all chats/media. Auto Save Snaps → Automatically save all snaps in chat. (Requires Auto Save Chat to be enabled) Chat Ghost → Open chat without marking messages as seen. Bitmoji presence is also disabled when this option is on Ignore Deleted Chats → Stop chats from being deleted Deleted Chat Color → Color for deleted chats Suppress Typing Notification → Suppress typing notification when typing in chat. No Bitmoji Presence → Do not show bitmoji presence in chat. Chat Swipe → Swipe on any part of the chat to open it. ▬▬▬▬▬▬▬▬▬▬▬▬\n\nRECORDING/SCREENSHOTS FEATURES\n\nScreenshot Confirm → Show a confirmation dialog for sending screenshots notification. Screen Record Supression → Suppress screen recording notifications. Screenshot Supression → Suppress screenshot notifications. Screenshot Button → Show an overlay button to send screenshot notification. ▬▬▬▬▬▬▬▬▬▬▬▬\n\nSPOOF FEATURES\n\nSpoof Added By Search → When adding people in search, it will instead show up as Added by Quick Add. Spoof Location → Use the location selector below to change location. Pick Location → Choose the location from the map (Requires enabling Spoof Location). Teleport to Friends → Tap a friend on the SnapMap to teleport to them. Spoof Story Views → Enter a number to spoof story views (Leave blank to disable). Spoof Story Screenshots → Enter a number to spoof story screenshots (Leave blank to disable). ▬▬▬▬▬▬▬▬▬▬▬▬\n\nWICKED INTERFACE FEATURES\n\nDisable Icons → Disable custom account/settings icon to hide presence of wicked (Requires restart). Button Size → Size of all buttons Lock Buttons → Lock the position of the buttons and disable movement. Reset Button Layout → Restore button positions to default configuration. ▬▬▬▬▬▬▬▬▬▬▬▬\n\nSNAPCHAT INTERFACE FEATURES\n\nChange Icon → Change app icon. Hide New Chat Button → Hide the blue button on the bottom on recent UI versions. No Map Swipe → Disable swiping to SnapMap. Open Link Default → Open links in chat using safari. Hide Call Buttons → Hide the call buttons in chat. Hide Discover → Removes the Discover stories section. Hide Quick Add → Removes the Quick Add section from the chat page. Loop Media → Content will loop rather than skip to the next. ▬▬▬▬▬▬▬▬▬▬▬▬\n\nMISC FEATURES\n\nCall Confirm → Show a confirmation dialog before making calls. Show Banners → Enable banners notifications for some interactions (saving, marking as seen). Keep Sent Snaps → Sent snaps will be shown only in your side of the chat, so you may know what snaps you've sent. ▬▬▬▬▬▬▬▬▬▬▬▬\n\nEXPERIMENTS (NO SUPPORT) FEATURES\n\nSpam Screenshots → Spam 100 screenshots in chat (camera button in input bar to toggle) No Bitmojis → Do not render bitmojis Disable Ads → Block all Snapchat advertisements. Randomize Best Friends → Randomly change the order of the best friends list. Hide Friendmoji → Hide the friendmojis in chat page (Not Bitmoji. Requires pull to refresh). Spoof Badge → Enter a number to spoof the application badge number. Exit app to see changes, if you have snapchat in background, it will not work, you need to exit the app each time you want to spoof the badge count. (Leave blank to disable).",
+      "iconURL" : "https://static.appdb.to/images/cydia-1900001263-icon-1696037554.png",
+      "tintColor" : "258e64",
+      "screenshotURLs" : [
+        "https://static.appdb.to/images/cydia-1900001263-iphone-0-1696037554.png",
+        "https://static.appdb.to/images/cydia-1900001263-iphone-1-1696037555.png",
+        "https://static.appdb.to/images/cydia-1900001263-iphone-2-1696037555.png",
+        "https://static.appdb.to/images/cydia-1900001263-iphone-3-1696037555.png"
+      ],
+      "version" : "12.83.0",
+      "versionDate" : "2024-06-26",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.83.0.+.Wicked.v3.0.ipa",
+      "versionDescription" : "Wicked IPA is back! (NOT A DEVICE BAN BYPASS)\n\nWicked v3.0 Public Beta 2 Released!\n\nChanges:\n\n• Updated Snapchat to v12.83.0.39\n• Upload Fixed with more stable mechanism to upload videos (hotfix)\n• Minor security fixes\n\nReminders:\n\n• This is a public beta, let us know of any bugs, and annoyances so we can fix in the final 3.0 release, use at your own risk.\n• THIS IS NOT A Device ban bypass, if you are device banned, wait for the bypass fix. I am going to be focusing on the bypass next : )",
+      "size" : 10900000,
+      "versions" : [
+        {
+          "version" : "12.83.0",
+          "date" : "2024-06-26",
+          "localizedDescription" : "Wicked IPA is back! (NOT A DEVICE BAN BYPASS)\n\nWicked v3.0 Public Beta 2 Released!\n\nChanges:\n\n• Updated Snapchat to v12.83.0.39\n• Upload Fixed with more stable mechanism to upload videos (hotfix)\n• Minor security fixes\n\nReminders:\n\n• This is a public beta, let us know of any bugs, and annoyances so we can fix in the final 3.0 release, use at your own risk.\n• THIS IS NOT A Device ban bypass, if you are device banned, wait for the bypass fix. I am going to be focusing on the bypass next : )",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.83.0.+.Wicked.v3.0.ipa",
+          "size" : 10900000
+        },
+        {
+          "version" : "12.47.0",
+          "date" : "2023-10-19",
+          "localizedDescription" : "• Updated Snapchat to v12.47.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.47.0.+.Wicked.v2.0.3a.ipa",
+          "size" : 97100000
+        }
+      ],
+      "beta" : true
+    },
+    {
       "name" : "TikTok++",
       "bundleIdentifier" : "com.zhiliaoapp.musically",
       "developerName" : "BandarHL",
@@ -346,12 +383,19 @@
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-9.webp",
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-10.webp"
       ],
-      "version" : "8.9.36",
-      "versionDate" : "2024-05-08",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.36.+.Eevee.v2.1.ipa",
-      "versionDescription" : "• Fixed app crashing when opening the player\n• EeveeSpotify now replaces Spotify monthly limited lyrics with Genius! (If it shows the limit has been reached there are no lyrics available on genius, this is different to the lyrics spotify provide)\n• Added OpenWithSpotify extension to open Spotify links in safari (must be enabled)\n• Updated Spotify to v8.9.36",
-      "size" : 69100000,
+      "version" : "8.9.38",
+      "versionDate" : "2024-05-10",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.38.+.Eevee.v3.0.ipa",
+      "versionDescription" : "• EeveeSpotify now supports LRCLIB and Musixmatch time-synced lyrics sources! You can select your preferred source in the tweak settings\n• Lyrics colors are now normalized\n• Fixed Genius issue where the tweak would pick a translation instead of the original lyrics",
+      "size" : 68800000,
       "versions" : [
+        {
+          "version" : "8.9.38",
+          "date" : "2024-05-10",
+          "localizedDescription" : "• EeveeSpotify now supports LRCLIB and Musixmatch time-synced lyrics sources! You can select your preferred source in the tweak settings\n• Lyrics colors are now normalized\n• Fixed Genius issue where the tweak would pick a translation instead of the original lyrics",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.38.+.Eevee.v3.0.ipa",
+          "size" : 68800000
+        },
         {
           "version" : "8.9.36",
           "date" : "2024-05-08",
@@ -513,6 +557,16 @@
       "notify" : true
     },
     {
+      "title" : "Snapchat Wicked Updated!",
+      "identifier" : "snapchat-wicked-updated",
+      "caption" : "Snapchat Wicked (Cracked) has been added to the source, click here for more info",
+      "date" : "2024-06-26",
+      "tintColor" : "173c2d",
+      "imageURL" : "https://i.imgur.com/8hb3y5d.jpeg",
+      "appID" : "com.toyopagroup.picaboo-Wicked",
+      "notify" : true
+    },
+    {
       "title" : "TikTok++ Updated!",
       "identifier" : "tiktok-updated",
       "caption" : "TikTok++ has been updated to the latest version, click here for more info",
@@ -576,7 +630,7 @@
       "title" : "Spotify++ Updated!",
       "identifier" : "spotify-updated",
       "caption" : "Spotify++ has been updated to the latest version! Click here for more info",
-      "date" : "2024-05-08",
+      "date" : "2024-05-10",
       "tintColor" : "0e6a32",
       "imageURL" : "https://i.imgur.com/NvxAusn.jpeg",
       "appID" : "com.spotify.client",

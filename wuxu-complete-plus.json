@@ -117,14 +117,14 @@
         "https://static.appdb.to/images/cydia-1900001263-iphone-3-1696037555.png"
       ],
       "version" : "12.83.0",
-      "versionDate" : "2024-06-26",
+      "versionDate" : "2024-04-26",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.83.0.+.Wicked.v3.0.ipa",
       "versionDescription" : "Wicked IPA is back! (NOT A DEVICE BAN BYPASS)\n\nWicked v3.0 Public Beta 2 Released!\n\nChanges:\n\n• Updated Snapchat to v12.83.0.39\n• Upload Fixed with more stable mechanism to upload videos (hotfix)\n• Minor security fixes\n\nReminders:\n\n• This is a public beta, let us know of any bugs, and annoyances so we can fix in the final 3.0 release, use at your own risk.\n• THIS IS NOT A Device ban bypass, if you are device banned, wait for the bypass fix. I am going to be focusing on the bypass next : )",
       "size" : 10900000,
       "versions" : [
         {
           "version" : "12.83.0",
-          "date" : "2024-06-26",
+          "date" : "2024-04-26",
           "localizedDescription" : "Wicked IPA is back! (NOT A DEVICE BAN BYPASS)\n\nWicked v3.0 Public Beta 2 Released!\n\nChanges:\n\n• Updated Snapchat to v12.83.0.39\n• Upload Fixed with more stable mechanism to upload videos (hotfix)\n• Minor security fixes\n\nReminders:\n\n• This is a public beta, let us know of any bugs, and annoyances so we can fix in the final 3.0 release, use at your own risk.\n• THIS IS NOT A Device ban bypass, if you are device banned, wait for the bypass fix. I am going to be focusing on the bypass next : )",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.83.0.+.Wicked.v3.0.ipa",
           "size" : 10900000
@@ -570,7 +570,7 @@
       "title" : "Snapchat Wicked Updated!",
       "identifier" : "snapchat-wicked-updated",
       "caption" : "Snapchat Wicked (Cracked) has been added to the source, click here for more info",
-      "date" : "2024-06-26",
+      "date" : "2024-04-26",
       "tintColor" : "173c2d",
       "imageURL" : "https://i.imgur.com/8hb3y5d.jpeg",
       "appID" : "com.toyopagroup.picaboo-Wicked",

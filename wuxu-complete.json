@@ -451,7 +451,7 @@
     {
       "name" : "Clash of Clans (Modded)",
       "bundleIdentifier" : "com.supercell.magic",
-      "developerName" : "Astrasis",
+      "developerName" : "Atrasis",
       "subtitle" : "A modded Clash of Clans server!",
       "localizedDescription" : "This is a modded Clash of Clans private server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\n\nNOTE: IF THE APP REQUIRES AN UPDATE, REINSTALL FROM THIS LINK AS THE DOWNLOAD URL IS ALWAYS THE LATEST AND I DO NOT MANUALLY CHANGE IT.\n\nTO KEEP YOUR PROGRESS, MAKE AN ATRASIS ID, ITS DONE THE SAME AS IF YOU ARE MAKING A SUPERCELL ID, AND SIGN IN AFTER REINSTALLING\n\n\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\nModded by Ksyrex. His Telegram group➡️ https://t.me/+wwYy4wEMS1gwMTAy",
       "iconURL" : "https://img.ipa4fun.com/cc/d5/84/529479190-logo.webp",
@@ -499,12 +499,19 @@
         "https://img.ipa4fun.com/e8/16/53/1053012308-screenshot-5.webp",
         "https://img.ipa4fun.com/e8/16/53/1053012308-screenshot-6.webp"
       ],
-      "version" : "3.3186.7",
-      "versionDate" : "2023-05-11",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.Royale.Null.s.v3.3186.7.ipa",
-      "versionDescription" : "• Updated Clash Royale to v3.3186.7",
-      "size" : 234000000,
+      "version" : "4.88.4",
+      "versionDate" : "2024-05-10",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.Royale.v4.88.4.Nulls.ipa",
+      "versionDescription" : "• Updated Clash Royale to v4.88.4",
+      "size" : 329000000,
       "versions" : [
+        {
+          "date" : "2024-05-10",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.Royale.v4.88.4.Nulls.ipa",
+          "localizedDescription" : "• Updated Clash Royale to v4.88.4",
+          "size" : 329000000,
+          "version" : "4.88.4"
+        },
         {
           "date" : "2023-05-11",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.Royale.Null.s.v3.3186.7.ipa",
@@ -752,9 +759,9 @@
       "notify" : true
     },
     {
-      "title" : "Clash of Clans Added!",
-      "identifier" : "clashofclans-added",
-      "caption" : "Clash of Clans on a modded server has been added to the source! Unlimited gems, elixir and gold! ",
+      "title" : "Clash of Clans Updated!",
+      "identifier" : "clashofclans-updated",
+      "caption" : "Modded Clash of Clans has been updated to the latest version, click here for more info",
       "date" : "2024-05-10",
       "tintColor" : "123047",
       "imageURL" : "https://i.imgur.com/pS8xh2f.jpeg",
@@ -764,8 +771,8 @@
     {
       "title" : "Clash Royale Updated!",
       "identifier" : "clashroyale-updated",
-      "caption" : "Clash Royale has been updated to the latest version, click here for more info!",
-      "date" : "2023-05-11",
+      "caption" : "Null's Royale has been updated to the latest version, click here for more info!",
+      "date" : "2024-05-10",
       "tintColor" : "134771",
       "imageURL" : "https://i.imgur.com/JlyS9ZK.jpeg",
       "appID" : "com.supercell.scroll",

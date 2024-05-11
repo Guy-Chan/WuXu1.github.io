@@ -9,6 +9,34 @@
   "tintColor" : "d81a14",
   "apps" : [
     {
+      "name" : "HD Flix",
+      "bundleIdentifier" : "com.box.hd.flix.drama.hub",
+      "developerName" : "Dezokr",
+      "subtitle" : "The All-In-One Movies app for iOS",
+      "localizedDescription" : "With HD Flix for iOS you can able to watch any movie/tv show. The User Interface that you see in the app is truly the best thing about it. Easy navigation and responsive design made it stand at the top of the list.\n\nIt will display all the trending content from Action, Comedy, Sci-Fi and other genres at the home page for the best user experience. Moreover, you will get to read the complete information about any particular movie including IMDB Rating, Year Of Release, Start Cast, etc.",
+      "iconURL" : "https://i.imgur.com/3tQFB9N.png",
+      "tintColor" : "a01916",
+      "category" : "Entertainment",
+      "screenshotURLs" : [
+        ""
+      ],
+      "version" : "5.0",
+      "versionDate" : "2024-05-11",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/HD.Flix.v5.0.ipa",
+      "versionDescription" : "• Added HD Flix v5.0",
+      "size" : 2940000,
+      "versions" : [
+        {
+          "version" : "5.0",
+          "date" : "2024-05-11",
+          "localizedDescription" : "• Added HD Flix v5.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/HD.Flix.v5.0.ipa",
+          "size" : 2940000
+        }
+      ],
+      "beta" : false
+    },
+    {
       "name" : "X++",
       "bundleIdentifier" : "com.atebits.Tweetie2",
       "developerName" : "BandarHL",
@@ -544,6 +572,16 @@
     }
   ],
   "news" : [
+    {
+      "title" : "HD Flix Added!",
+      "identifier" : "hdflix-added",
+      "caption" : "HD Flix, An all-in-one movie app, has been added to the source! Click here for more info",
+      "date" : "2024-05-11",
+      "tintColor" : "16181e",
+      "imageURL" : "https://i.imgur.com/uRO0Hiu.jpeg",
+      "appID" : "com.box.hd.flix.drama.hub",
+      "notify" : true
+    },
     {
       "title" : "Snapchat Tweaks...",
       "identifier" : "snapchat-tweaks",

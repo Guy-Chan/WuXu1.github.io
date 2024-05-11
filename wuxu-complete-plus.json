@@ -577,8 +577,8 @@
       "identifier" : "hdflix-added",
       "caption" : "HD Flix, An all-in-one movie app, has been added to the source! Click here for more info",
       "date" : "2024-05-11",
-      "tintColor" : "16181e",
-      "imageURL" : "https://i.imgur.com/uRO0Hiu.jpeg",
+      "tintColor" : "161515",
+      "imageURL" : "https://i.imgur.com/rd1pyng.png",
       "appID" : "com.box.hd.flix.drama.hub",
       "notify" : true
     },

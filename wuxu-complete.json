@@ -8,13 +8,46 @@
   "website" : "https://bit.ly/wuxus-sources",
   "tintColor" : "d81a14",
   "featuredApps" : [
-    "org.coolstar.taurine",
+    "com.opa334.Dopamine",
     "com.leemin.Cowabunga",
     "com.supercell.magic",
-    "com.nianticlabs.pokemongo",
+    "org.coolstar.taurine",
     "com.rovio.angrybirdsstarwars"
   ],
   "apps" : [
+    {
+      "name" : "TrollInstallerX",
+      "bundleIdentifier" : "com.Alfie.TrollInstallerX",
+      "developerName" : "alfiecg24",
+      "subtitle" : "The universal TrollStore installer for iOS 14.0 - 16.6.1",
+      "localizedDescription" : "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689\n\nEnable Notifications and set Location Services to Always to keep the app running in the background, keep the dock and folder background hidden, and prevent some sound effects from reverting.\n\nWarning: Some changes are permanent on iOS 14.0-14.8.1\n\n\nFeatures:\n\n• Running in the background to keep some changes from reverting\n\t- From running tests, battery loss is negligible (~1% per day on frequent), but that may vary \n\nSpringboard\n\n• Hide dock\n• Hide home bar\n• Hide folder backgrounds\n• Disable folder background blur\n• Disable app switcher blur\n• Hide CC Module Backgrounds\n• Hide Notification Banner Background\n\nApp Icon Themes\n\n• Importing folders of app icons\n• No WebClips!\n\nAudio\n\n• Custom sound effects\n• Upload your own sounds (nearly every audio format allowed!)\n• Max upload audio size of 150 kb, but will not apply for audio if too big!\n\nPasscode\n\n• Customize passcode keys\n• Import passcode keys files (.passthm) from TrollTools\n\nLocks\n\n• Importing locks from TrollLock\n• Custom number of frames + custom animation speeds (see below)\n\nExplore\n\n• Find and download themes for passcodes, locks, and app icons!\n• If you would like to submit your own works, please join the discord\n\nStatus Bar\n\n• Change carrier name\n• Change battery display detail\n• Change time text\n• Change breadcrumb text\n• Show numeric WiFi/Cellular strength\n• Hide many icons in the status bar\n\nOther Tools\n\n• Custom Fonts\n• Lock Screen Footnote\n• Notification Badges Changer (iOS 14-15 ONLY)\n• Springboard Colors\n• Settings App Customizer\n• Calculator Error Message\n\nMisc\n\n• Disable shortcut banners\n• Turn shortcuts into app clips\n• Supervise Device Warning: Use the features below at your own risk!\n• Change system version (shows in settings, iOS 15+)\n• Enable iPhone X Gestures\n• Enable Dynamic Island (iOS 16+)\n\nExtra Tools\n\n• Lock Screen Footnote\n• No Lock On Respring\n• Disable Low Power Alert",
+      "iconURL" : "https://i.imgur.com/SvVLxgw.png",
+      "tintColor" : "0363a9",
+      "category" : "utilities",
+      "screenshotURLs" : [
+        "https://i.imgur.com/aIyWLRP.jpeg",
+        "https://i.imgur.com/o5REDKV.jpeg"
+      ],
+      "version" : "1.0.2",
+      "minOSVersion_0" : "14.0.0",
+      "maxOSVersion_0" : "16.6.1",
+      "versionDate" : "2024-04-08",
+      "downloadURL" : "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa",
+      "versionDescription" : "• Full support for iOS 17.0 beta 1 - 4 on arm64 devices",
+      "size" : 6570000,
+      "versions" : [
+        {
+          "version" : "1.0.2",
+          "minOSVersion_0" : "14.0.0",
+          "maxOSVersion_0" : "16.6.1",
+          "date" : "2024-04-08",
+          "localizedDescription" : "• Full support for iOS 17.0 beta 1 - 4 on arm64 devices",
+          "downloadURL" : "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa",
+          "size" : 6570000
+        }
+      ],
+      "beta" : false
+    },
     {
       "name" : "Santander (MDC)",
       "bundleIdentifier" : "org.haxi0.santander",
@@ -242,7 +275,7 @@
       "bundleIdentifier" : "org.coolstar.taurine",
       "developerName" : "Odyssey Team",
       "subtitle" : "Time to get amped.",
-      "localizedDescription" : "Taurine is an iOS 14.0-14.3 jailbreak, utilizing Procursus and Libhooker.",
+      "localizedDescription" : "Taurine is an iOS 14.0-14.8.1 jailbreak, utilizing Procursus and Libhooker.",
       "iconURL" : "https://taurine.app/assets/images/icon.png",
       "tintColor" : "9e3a47",
       "category" : "utilities",
@@ -253,12 +286,19 @@
       ],
       "version" : "1.1.6",
       "minOSVersion_0" : "14.0.0",
-      "maxOSVersion_0" : "14.3.0",
-      "versionDate" : "2022-07-17",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Taurine.Jailbreak.v1.1.6.ipa",
-      "versionDescription" : "• Backports DER entitlement fixes from Taurine15\n• Backports codesignature fixes from Taurine15\n• Backports various other fixes from Taurine15",
-      "size" : 31938370,
+      "maxOSVersion_0" : "14.8.1",
+      "versionDate" : "2023-09-23",
+      "downloadURL" : "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+      "versionDescription" : "• Fix kfd change being implemented incorrectly",
+      "size" : 30838370,
       "versions" : [
+        {
+          "date" : "2023-09-23",
+          "downloadURL" : "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+          "localizedDescription" : "• Fix kfd change being implemented incorrectly",
+          "size" : 30838370,
+          "version" : "1.1.7-3"
+        },
         {
           "date" : "2022-07-17",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Taurine.Jailbreak.v1.1.6.ipa",
@@ -285,7 +325,7 @@
         "https://i.imgur.com/gTYfncm.png"
       ],
       "version" : "8.0.2",
-      "minOSVersion_0" : "14.6.0",
+      "minOSVersion_0" : "11.0",
       "maxOSVersion_0" : "14.8.0",
       "versionDate" : "2021-12-29",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Unc0ver.Jailbreak.v8.0.2.ipa",
@@ -678,6 +718,16 @@
   ],
   "news" : [
     {
+      "title" : "TrollInstallerX Added!",
+      "identifier" : "trollinstallerx-added",
+      "caption" : "A Universal TrollStore Installer for iOS 14 - 16.6.1 has been added to the source! Click herer for more info",
+      "date" : "2024-05-11",
+      "tintColor" : "0363a9",
+      "imageURL" : "https://i.imgur.com/wtOgRBC.jpeg",
+      "appID" : "com.Alfie.TrollInstallerX",
+      "notify" : true
+    },
+    {
       "title" : "Santander (MDC) Added!",
       "identifier" : "santander-added",
       "caption" : "Santander, a new, enhanced File Manager for MDC devices has been added to the source! Click here for more info",
@@ -748,23 +798,13 @@
       "notify" : false
     },
     {
-      "title" : "Taurine Added!",
-      "identifier" : "taurine-added",
-      "caption" : "The Taurine jailbreak tool has been added to the source!",
-      "date" : "2023-04-04",
+      "title" : "Taurine Updated!",
+      "identifier" : "taurine-updated ",
+      "caption" : "Taurine Jailbreak has been updated! Now supporting up to iOS 14.8.1! Click here for more info",
+      "date" : "2024-05-11",
       "tintColor" : "9e3a47",
       "imageURL" : "https://i.imgur.com/ExAk9bo.png",
       "appID" : "org.coolstar.taurine",
-      "notify" : false
-    },
-    {
-      "title" : "Dopamine Added!",
-      "identifier" : "dopamine-added",
-      "caption" : "Dopamine, a jailbreak for iOS 15-16 has been added to the source! Click here for more info",
-      "date" : "2024-05-11",
-      "tintColor" : "0d7d65",
-      "imageURL" : "https://i.imgur.com/iz36kwo.jpeg",
-      "appID" : "com.opa334.Dopamine",
       "notify" : false
     },
     {
@@ -775,6 +815,16 @@
       "tintColor" : "515151",
       "imageURL" : "https://i.imgur.com/ai6QSbt.jpeg",
       "appID" : "science.xnu.undecimus",
+      "notify" : false
+    },
+    {
+      "title" : "Dopamine Added!",
+      "identifier" : "dopamine-added",
+      "caption" : "Dopamine, a jailbreak for iOS 15-16 has been added to the source! Click here for more info",
+      "date" : "2024-05-11",
+      "tintColor" : "0d7d65",
+      "imageURL" : "https://i.imgur.com/iz36kwo.jpeg",
+      "appID" : "com.opa334.Dopamine",
       "notify" : false
     },
     {

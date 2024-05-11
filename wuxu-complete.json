@@ -540,9 +540,9 @@
       "beta" : false
     },
     {
-      "name" : "Atrasis - Original",
+      "name" : "Atrasis",
       "bundleIdentifier" : "com.supercell.magic",
-      "developerName" : "Atrasis",
+      "developerName" : "Atrasis Team",
       "subtitle" : "A modded Clash of Clans server!",
       "localizedDescription" : "This is a modded Clash of Clans private server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\n\nNOTE: IF THE APP REQUIRES AN UPDATE, REINSTALL FROM THIS LINK AS THE DOWNLOAD URL IS ALWAYS THE LATEST AND I DO NOT MANUALLY CHANGE IT.\n\nTO KEEP YOUR PROGRESS, MAKE AN ATRASIS ID, ITS DONE THE SAME AS IF YOU ARE MAKING A SUPERCELL ID, AND SIGN IN AFTER REINSTALLING\n\n\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\nModded by Ksyrex. His Telegram group➡️ https://t.me/+wwYy4wEMS1gwMTAy",
       "iconURL" : "https://i.imgur.com/WfWpKOF.png",

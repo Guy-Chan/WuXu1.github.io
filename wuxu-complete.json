@@ -483,7 +483,7 @@
       "beta" : false
     },
     {
-      "name" : "Null's Royale",
+      "name" : "Clash Royale (Modded)",
       "bundleIdentifier" : "com.supercell.scroll",
       "developerName" : "Null's",
       "subtitle" : "A modded Clash Royale server!",
@@ -771,7 +771,7 @@
     {
       "title" : "Clash Royale Updated!",
       "identifier" : "clashroyale-updated",
-      "caption" : "Null's Royale has been updated to the latest version, click here for more info!",
+      "caption" : "Modded Clash Royale has been updated to the latest version, click here for more info!",
       "date" : "2024-05-10",
       "tintColor" : "134771",
       "imageURL" : "https://i.imgur.com/JlyS9ZK.jpeg",

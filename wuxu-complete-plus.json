@@ -636,7 +636,7 @@
     {
       "title" : "SoundCloud++ is no more...",
       "identifier" : "soundcloud-removed",
-      "caption" : "SoundCloud++ has recently patched its ability to be sideloaded, therefore i've had to remove the app.",
+      "caption" : "SoundCloud++ has recently patched its ability to be sideloaded, therefore i've had to remove it from the source.",
       "date" : "2024-05-10",
       "tintColor" : "131313",
       "imageURL" : "https://i.imgur.com/5pl1dGh.jpeg",

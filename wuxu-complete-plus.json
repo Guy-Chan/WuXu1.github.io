@@ -485,16 +485,23 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/71/50/25/7150254b-c1fe-0f0a-3080-d132ec1df02b/tns.kxzrjpco.png/314x0w.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/66/d8/e5/66d8e526-9452-3aef-929c-1e91c675512a/7c022d98-f86f-4b31-8503-632ddcd73657_6.5-inch-screen9__U00283_U0029.png/314x0w.webp"
       ],
-      "version" : "6.196.0",
-      "versionDate" : "2023-10-23",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.Cracked.v6.196.0.ipa",
-      "versionDescription" : "• Added Duolingo v6.196.0 (Current working version with crack)\n• uYouPlusExtra updated to v3.0.1",
-      "size" : 112000000,
+      "version" : "7.9.0",
+      "versionDate" : "2024-05-11",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.Cracked.v7.9.0.ipa",
+      "versionDescription" : "• Duolingo Updated to v7.9.0",
+      "size" : 101000000,
       "versions" : [
+        {
+          "version" : "7.9.0",
+          "date" : "2024-05-11",
+          "localizedDescription" : "• Duolingo Updated to v7.9.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.Cracked.v7.9.0.ipa",
+          "size" : 101000000
+        },
         {
           "version" : "6.196.0",
           "date" : "2023-10-23",
-          "localizedDescription" : "• YouTube updated to v18.14.1\n• uYouPlusExtra updated to v3.0.1",
+          "localizedDescription" : "• Duolingo Updated to v6.196.0",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.Cracked.v6.196.0.ipa",
           "size" : 112000000
         }
@@ -656,10 +663,10 @@
       "notify" : true
     },
     {
-      "title" : "Duolingo++ Added!",
+      "title" : "Duolingo++ Updated!",
       "identifier" : "duolingo-added",
-      "caption" : "Duolingo with Super Duolingo enabled has been added to the source, click here for more info",
-      "date" : "2023-10-23",
+      "caption" : "Duolingo++ has been updated to the latest version! Click here for more info",
+      "date" : "2024-05-11",
       "tintColor" : "244200",
       "imageURL" : "https://i.imgur.com/icxcPrT.jpeg",
       "appID" : "com.duolingo.DuolingoMobile",

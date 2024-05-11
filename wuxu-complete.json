@@ -9,7 +9,7 @@
   "tintColor" : "d81a14",
   "featuredApps" : [
     "com.opa334.Dopamine",
-    "com.leemin.Cowabunga",
+    "com.Alfie.TrollInstallerX",
     "com.supercell.magic",
     "org.coolstar.taurine",
     "com.rovio.angrybirdsstarwars"
@@ -19,7 +19,7 @@
       "name" : "TrollInstallerX",
       "bundleIdentifier" : "com.Alfie.TrollInstallerX",
       "developerName" : "alfiecg24",
-      "subtitle" : "The universal TrollStore installer for iOS 14.0 - 16.6.1",
+      "subtitle" : "The universal TrollStore installer for iOS 14.0 - 17.0.0.0 beta 4",
       "localizedDescription" : "Overview\n\nTrollInstallerX is a universal TrollStore installer. It focuses on being extremely reliable and easy to use. It is also very fast, being able to install TrollStore and/or its persistence helper in a matter of seconds on the latest devices.\n\nTrollInstallerX supports all devices running iOS 14.0 - 16.6.1, both arm64 and arm64e. It makes use of one of two different methods to install TrollStore, depending on what device and iOS you have. These methods are:\n\n• Direct installation: using the kfd kernel exploit, along with the dmaFail PPL bypass on iOS 15.2+ arm64e devices, TrollInstallerX can install both TrollStore and its persistence helper directly onto the device without having to leave the installer.\n\n   - Supports iOS 14.0 - 16.6.1 (arm64) and iOS 14.0 - 16.5.1 (arm64e).\n      • Note: A15, A16, and M2 devices on iOS 16.5.1 do not support this method.\n      • Note: A8 devices are only supported on iOS 14.0 - 15.1 for the time being.\n• Indirect installation: Using the kfd kernel exploit, TrollInstallerX can replace a system application of your choice with the TrollStore persistence helper. This method only exists due to both the lack of a PPL bypass on iOS 16.6 and above, as well as the fact that dmaFail is non-functional on A15, A16, and M2 devices on iOS 16.5.1.\n\n   - Supports iOS 16.5.1 - 16.6.1 (arm64e).\n      • Note: This method is the only method that supports A15, A16, and M2 devices on iOS 16.5.1.\n\nBoth methods allow you to install a persistence helper into a removable system app. The reason that this is needed is due to the way that the CoreTrust bug (used by TrollStore) works - in certain circumstances, TrollStore and other apps installed by it will be reset to User registration, instead of System. You cannot open any of these apps until you have used the persistence helper to set them back to System registration.\n\n\nUsage\n\nTrollInstallerX is extremely easy to use. Simply download the latest release from the Releases page, and sideload it using your preferred method. Once installed, open the app and press the \"Install\" button. From there, TrollStore and/or its persistence helper will be installed onto your device.\n\nTrollInstallerX will automatically choose the best exploit for your device. However, in some cases, you may want to choose a specific exploit. To do this, simply open the settings view and select the exploit that you want to use. Once you have selected it, press the \"Install TrollStore\" button and TrollInstallerX will use the exploit you have chosen.\n\nNote: iOS 16.2 - 16.6.1 and iOS 15.7.2 - 15.8.2 require an internet connection in order for TrollInstallerX to download the kernelcache and patchfind it.",
       "iconURL" : "https://i.imgur.com/SvVLxgw.png",
       "tintColor" : "0363a9",
@@ -30,7 +30,7 @@
       ],
       "version" : "1.0.2",
       "minOSVersion_0" : "14.0.0",
-      "maxOSVersion_0" : "16.6.1",
+      "maxOSVersion_0" : "17.0.0",
       "versionDate" : "2024-04-08",
       "downloadURL" : "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa",
       "versionDescription" : "• Full support for iOS 17.0 beta 1 - 4 on arm64 devices",
@@ -39,7 +39,7 @@
         {
           "version" : "1.0.2",
           "minOSVersion_0" : "14.0.0",
-          "maxOSVersion_0" : "16.6.1",
+          "maxOSVersion_0" : "17.0.0",
           "date" : "2024-04-08",
           "localizedDescription" : "• Full support for iOS 17.0 beta 1 - 4 on arm64 devices",
           "downloadURL" : "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa",
@@ -732,7 +732,7 @@
     {
       "title" : "TrollInstallerX Added!",
       "identifier" : "trollinstallerx-added",
-      "caption" : "A Universal TrollStore Installer for iOS 14 - 16.6.1 has been added to the source! Click herer for more info",
+      "caption" : "A Universal TrollStore Installer for iOS 14 - 17.0.3b has been added to the source! Click here for more info",
       "date" : "2024-05-11",
       "tintColor" : "0363a9",
       "imageURL" : "https://i.imgur.com/wtOgRBC.jpeg",

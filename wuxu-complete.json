@@ -73,6 +73,8 @@
       "versions" : [
         {
           "version" : "0.4",
+          "minOSVersion_0" : "15.0.0",
+          "maxOSVersion_0" : "16.1.2",
           "date" : "2023-02-10",
           "localizedDescription" : "• Classic MDC overwrite is in the app, that means you can overwrite files in /System (hold a file to see a Replace action)\n\n• Respring action added.",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Santander.MDC.v0.4.ipa",
@@ -205,13 +207,13 @@
       "size" : 9040000,
       "versions" : [
         {
+          "version" : "3.7",
           "date" : "2023-05-14",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Filza.MDC.No.Ads.v3.7.ipa",
-          "localizedDescription" : "• Added Filza (MDC) v3.7",
           "minOSVersion" : "15.0.0",
           "maxOSVersion_0" : "16.1.2",
-          "size" : 9040000,
-          "version" : "3.7"
+          "localizedDescription" : "• Added Filza (MDC) v3.7",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Filza.MDC.No.Ads.v3.7.ipa",
+          "size" : 9040000
         }
       ],
       "beta" : false
@@ -261,11 +263,13 @@
       "size" : 27200000,
       "versions" : [
         {
+          "version" : "1.4.3",
+          "minOSVersion_0" : "13.0.0",
+          "maxOSVersion_0" : "13.7.0",
           "date" : "2023-04-03",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Odyssey.Jailbreak.v1.4.3.ipa",
           "localizedDescription" : "• Update Sileo to 2.3-1",
-          "size" : 27200000,
-          "version" : "1.4.3"
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Odyssey.Jailbreak.v1.4.3.ipa",
+          "size" : 27200000
         }
       ],
       "beta" : false
@@ -293,18 +297,22 @@
       "size" : 30838370,
       "versions" : [
         {
+          "version" : "1.1.7-3",
+          "minOSVersion_0" : "14.0.0",
+          "maxOSVersion_0" : "14.8.1",
           "date" : "2023-09-23",
-          "downloadURL" : "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
           "localizedDescription" : "• Fix kfd change being implemented incorrectly",
-          "size" : 30838370,
-          "version" : "1.1.7-3"
+          "downloadURL" : "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+          "size" : 30838370
         },
         {
+          "version" : "1.1.6",
+          "minOSVersion_0" : "14.0.0",
+          "maxOSVersion_0" : "14.4.1",
           "date" : "2022-07-17",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Taurine.Jailbreak.v1.1.6.ipa",
           "localizedDescription" : "• Backports DER entitlement fixes from Taurine15\n• Backports codesignature fixes from Taurine15\n• Backports various other fixes from Taurine15",
-          "size" : 31938370,
-          "version" : "1.1.6"
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Taurine.Jailbreak.v1.1.6.ipa",
+          "size" : 31938370
         }
       ],
       "beta" : false
@@ -333,11 +341,13 @@
       "size" : 54489484,
       "versions" : [
         {
+          "version" : "8.0.2",
+          "minOSVersion_0" : "11.0",
+          "maxOSVersion_0" : "14.8.0",
           "date" : "2021-12-29",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Unc0ver.Jailbreak.v8.0.2.ipa",
           "localizedDescription" : "• Added exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8\n• Fixed exploit reliability on iPhone XS devices running iOS 14.6-14.8",
-          "size" : 54489484,
-          "version" : "8.0.2"
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Unc0ver.Jailbreak.v8.0.2.ipa",
+          "size" : 54489484
         }
       ],
       "beta" : false
@@ -365,13 +375,15 @@
       "versions" : [
         {
           "version" : "2.1.4",
+          "minOSVersion_0" : "15.0.0",
+          "maxOSVersion_0" : "16.5.1",
           "date" : "2024-05-07",
           "localizedDescription" : "• Only automatically fix up permissions of relevant directories inside /var/jb/var/mobile, rather than the entirety of it\n• Skip permission fix up if either /var/jb/var or /var/jb/var/mobile is a symbolic link, previously there was a bootloop risk when either of them point to the real /var or /var/mobile",
           "downloadURL" : "https://github.com/opa334/Dopamine/releases/download/2.1.4/Dopamine.ipa",
           "size" : 47400000
         }
       ],
-      "beta" : true
+      "beta" : false
     },
     {
       "name" : "iTorrent",
@@ -433,31 +445,31 @@
       "size" : 15500000,
       "versions" : [
         {
+          "version" : "10.2.0",
+          "minOSVersion" : "14.0.0",
+          "maxOSVersion_0" : "16.1.2",
           "date" : "2023-05-14",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Cowabunga.v10.2.0.ipa",
           "localizedDescription" : "• Added JIT\n• Added date in status bar through breadcrumb\n• Can be automated through shortcuts using the url cowabunga://dateset\n• See below for how to set up automation\n• Can also be updated using the button on the home page\n• Added service badge customization in status bar\n• Added ability to set the data network type\n• Added changing the date string on ipads\n• Added ability to reset the status bar through a url scheme (cowabunga://statusbar:reset)\n• Added ability to choose respring type (frontboard or backboard)\n• Fixed issue with forcing mdc",
-          "minOSVersion" : "14.0.0",
-          "maxOSVersion_0" : "16.1.2",
-          "size" : 15500000,
-          "version" : "10.2.0"
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Cowabunga.v10.2.0.ipa",
+          "size" : 15500000
         },
         {
+          "version" : "10.1.1",
+          "minOSVersion" : "14.0.0",
+          "maxOSVersion_0" : "16.1.2",
           "date" : "2023-04-01",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Cowabunga.v10.1.1.ipa",
           "localizedDescription" : "• Added remove 3 app limit\n• Added ability to edit secondary carrier name separately\n• Importing operations no longer includes the backup file for changes in /var for safety reasons (Model Name Changer and other operations that edit the mobilegestalt plist should no longer brick devices/cause activation locks)\n• Fixed generate padding button not showing up on file path operations",
-          "maxOSVersion_0" : "16.1.2",
-          "minOSVersion" : "14.0.0",
-          "size" : 20600000,
-          "version" : "10.1.1"
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Cowabunga.v10.1.1.ipa",
+          "size" : 20600000
         },
         {
-          "date" : "2023-03-29",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Cowabunga.v10.1.0.ipa",
-          "localizedDescription" : "• You can now choose to enable v8 and/or v10 theming\n• Padding for file path replacing operations\n• Added back keyboard buttons audio\n• More safety with icon theming: first attempts to revert corrupted files before aborting\n• Improved error messages\n• Fixed springboard tools view sizing on ipads\n• Fixed springboard tools on RTL languages\n• Updated backend repo for explore page",
-          "maxOSVersion_0" : "16.1.2",
+          "version" : "10.1.0",
           "minOSVersion" : "14.0.0",
-          "size" : 20600000,
-          "version" : "10.1.0"
+          "maxOSVersion_0" : "16.1.2",
+          "localizedDescription" : "• You can now choose to enable v8 and/or v10 theming\n• Padding for file path replacing operations\n• Added back keyboard buttons audio\n• More safety with icon theming: first attempts to revert corrupted files before aborting\n• Improved error messages\n• Fixed springboard tools view sizing on ipads\n• Fixed springboard tools on RTL languages\n• Updated backend repo for explore page",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Cowabunga.v10.1.0.ipa",
+          "date" : "2023-03-29",
+          "size" : 20600000
         }
       ],
       "beta" : false

@@ -33,7 +33,7 @@
       "maxOSVersion_0" : "17.0.0",
       "versionDate" : "2024-04-08",
       "downloadURL" : "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa",
-      "versionDescription" : "• Full support for iOS 17.0 beta 1 - 4 on arm64 devices",
+      "versionDescription" : "• Full support for iOS 17.0 beta 1 - 4 on arm64 devices\n\nNote: arm64e support for the above versions is still being worked on.",
       "size" : 6570000,
       "versions" : [
         {
@@ -41,7 +41,7 @@
           "minOSVersion_0" : "14.0.0",
           "maxOSVersion_0" : "17.0.0",
           "date" : "2024-04-08",
-          "localizedDescription" : "• Full support for iOS 17.0 beta 1 - 4 on arm64 devices",
+          "localizedDescription" : "• Full support for iOS 17.0 beta 1 - 4 on arm64 devices\n\nNote: arm64e support for the above versions is still being worked on.",
           "downloadURL" : "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa",
           "size" : 6570000
         }

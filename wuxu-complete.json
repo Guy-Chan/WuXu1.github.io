@@ -861,7 +861,7 @@
       "notify" : true
     },
     {
-      "title" : "Clash of Clans Updated!",
+      "title" : "Atrasis Updated!",
       "identifier" : "clashofclans-updated",
       "caption" : "Modded Clash of Clans has been updated to the latest version, click here for more info",
       "date" : "2024-05-10",
@@ -871,7 +871,7 @@
       "notify" : false
     },
     {
-      "title" : "Clash Royale Updated!",
+      "title" : "Null's Royale Updated!",
       "identifier" : "clashroyale-updated",
       "caption" : "Modded Clash Royale has been updated to the latest version, click here for more info!",
       "date" : "2024-05-10",

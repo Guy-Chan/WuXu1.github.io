@@ -7,6 +7,13 @@
   "headerURL" : "https://i.imgur.com/stTk5jP.jpeg",
   "website" : "https://bit.ly/wuxus-sources",
   "tintColor" : "d81a14",
+  "featuredApps" : [
+    "com.spotify.client",
+    "com.toyopagroup.picaboo-Wicked",
+    "com.burbn.instagram",
+    "com.google.ios.youtube",
+    "com.box.hd.flix.drama.hub"
+  ],
   "apps" : [
     {
       "name" : "HD Flix",

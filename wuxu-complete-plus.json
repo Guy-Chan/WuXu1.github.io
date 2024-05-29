@@ -387,9 +387,7 @@
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.webp",
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.webp",
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-7.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-8.webp"
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.webp"
       ],
       "version" : "8.9.42",
       "versionDate" : "2024-05-28",
@@ -475,14 +473,12 @@
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.webp",
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.webp",
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-7.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-8.webp"
+        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.webp"
       ],
       "version" : "8.6.42-0.2",
       "versionDate" : "2023-04-24",
       "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.Tweaked-OG.v8.6.42-0.2.ipa",
-      "versionDescription" : "• Added SpotilifeFix - May fix the issue where premium is not activated after downloading on certain devices and IOS versions",
+      "versionDescription" : "• Added SpotilifeFix - May fix the issue where premium is not activated after downloading on certain devices and IOS versions\n• Added OpenSpotifySafariExtension - Enable in Safari extensions to fix Spotify links not opening the app!",
       "size" : 47500000,
       "versions" : [
         {

@@ -741,16 +741,6 @@
       "notify" : true
     },
     {
-      "title" : "Spotify++ (Old) Added!",
-      "identifier" : "spotify-old-added",
-      "caption" : "The Original Spotify++ has been added to the source, use this if you do not like the new one!",
-      "date" : "2024-05-29",
-      "tintColor" : "0e6a32",
-      "imageURL" : "https://i.imgur.com/NvxAusn.jpeg",
-      "appID" : "com.spotify.client-old",
-      "notify" : true
-    },
-    {
       "title" : "YouTube++ Updated!",
       "identifier" : "youtube-updated",
       "caption" : "YouTube++ has been updated to the latest version, downloading fixed. Click here for more info",

@@ -391,7 +391,7 @@
       ],
       "version" : "8.9.42",
       "versionDate" : "2024-05-28",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.38.+.Eevee.v3.0.ipa",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.42.+.Eevee.v4.0.ipa",
       "versionDescription" : "• Dynamic Premium Patching! - The tweak can now intercept Spotify requests to load user data, deserialize it, and modify the parameters in real-time. You can select the Dynamic Premium patching method in the EeveeSpotify settings.\n• Do Not Patch Premium option (for users with an active Premium subscription)\n• Reset Data option\n• Fixed native popups white background bug\n• Fixed opening Spotify links in the app when it's closed\n\nNOTE: When updating from an older tweak version, you need to go to EeveeSpotify settings and set the Premium patching method (either static or dynamic).\n\n\n(From v3.1)\n\n• Genius Fallback: Load lyrics from Genius if there is a problem with LRCLIB or Musixmatch\n• Updated OpenSpotifySafariExtension: Now supports all Spotify links and works great\n• Dark PopUps option\n• Improved lyrics colors (not so light and washed out, looks more like the original)\n• Improved song search algorithm on Genius or LRCLIB\n• Fixed EeveeSpotify settings crash when tapping on tabbar\n• Updated Musixmatch token alert message; the tweak now allows you to paste debug info",
       "size" : 71100000,
       "versions" : [

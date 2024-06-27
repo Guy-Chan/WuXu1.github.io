@@ -165,13 +165,6 @@
           "size": 10700000
         },
         {
-          "version": "12.83.0",
-          "date": "2024-04-26",
-          "localizedDescription": "Wicked IPA is back! (NOT A DEVICE BAN BYPASS)\n\nWicked v3.0 Public Beta 2 Released!\n\nChanges:\n\n• Updated Snapchat to v12.83.0.39\n• Upload Fixed with more stable mechanism to upload videos (hotfix)\n• Minor security fixes\n\nReminders:\n\n• This is a public beta, let us know of any bugs, and annoyances so we can fix in the final 3.0 release, use at your own risk.\n• THIS IS NOT A Device ban bypass, if you are device banned, wait for the bypass fix. I am going to be focusing on the bypass next : )",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.83.0.+.Wicked.v3.0.ipa",
-          "size": 10900000
-        },
-        {
           "version": "12.47.0",
           "date": "2023-10-19",
           "localizedDescription": "• Updated Snapchat to v12.47.0",

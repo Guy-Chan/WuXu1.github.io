@@ -515,25 +515,33 @@
     {
       "name" : "YouTube++",
       "bundleIdentifier" : "com.google.ios.youtube",
-      "developerName" : "Arichorn",
+      "developerName" : "Dayanch96",
       "subtitle" : "The All-In-One Tweak for YouTube.",
-      "localizedDescription" : "f you're a YouTube app user then you'll have to take advantage of uYou tweak.\n\nWith uYou, you can enjoy video and audio downloads with importing features, play videos in PiP (Picture In Picture), background audio playback, and a whole lot of other features that are usually restricted/not available in the YouTube app.\n\nuYou will add an icon button on the top right corner (beside the search icon) to show the Downloads/Downloading list.\nYou can also access uYou's settings from the Downloads list.\n\nFeatures:\n\n• Remove YouTube Ads.\n• Background playback for YT videos.\n• Download Videos/Audio/Shorts for offline playback (supports up to 4K).\n• Support all YT Formats (MP4 + WebM), all qualities (from 144p to 4K) and all frames (30fps, 50fps, and 60fps).\n• Play saved media in a custom player with background playback support.\n• Supports mini-player for easier navigation.\n• Supports scrubbing/controls from Control Center.\n• Share/Export saved videos to Camera Roll or to any other app.\n• Gestures Controls on Video (Swipe Left/Right to increase/decrease Volume/Brightness/Seek).\n• Playback Speed Controls.\n• Play videos in PiP (Picture In Picture).\n• iPad layout style.\n• Sideloaded iPA.\n• In-app Settings.\n• Support Cercube and DLEasy migration to move all of your downloads into uYou with a tap of a button.\n• More options are in the settings.",
+      "localizedDescription" : "Tweak preferences can be found in the YouTube Settings\n\nFeatures:\n\n• Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n• Copy video, comment, and post information\n• Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n• Player settings: Gestures, default quality, preferred audio track\n• Save, Load and Restore settings. Clear cache once or automatically on app startup\n• Built-in SponsorBlock\n• And much, much more",
       "iconURL" : "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
       "tintColor" : "f90505",
       "category" : "Entertainment",
       "screenshotURLs" : [
-        "https://i.imgur.com/5QTi2o4.jpeg",
-        "https://i.imgur.com/9Jz3BxT.jpeg",
-        "https://i.imgur.com/xfIkANo.jpeg",
-        "https://i.imgur.com/pUZrDLr.jpeg",
-        "https://i.imgur.com/oLav2ob.jpeg"
+        "https://i.imgur.com/nJSE7u7.jpeg",
+        "https://i.imgur.com/5ABmJ5d.jpeg",
+        "https://i.imgur.com/B1NnJb8.jpeg",
+        "https://i.imgur.com/1l2lFCm.jpeg",
+        "https://i.imgur.com/tZ2yvOY.jpeg",
+        "https://i.imgur.com/ayNc4BB.jpeg"
       ],
-      "version" : "19.16.3",
-      "versionDate" : "2024-04-30",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v19.16.3.+.uYouEnhanced.v3.0.3.ipa",
-      "versionDescription" : "• YouTube updated to v19.16.3\n• uYouEnhanced updated to v3.0.3",
-      "size" : 121000000,
+      "version" : "19.39.1",
+      "versionDate" : "2024-10-09",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v19.39.1.+.YTLiteFull.v5.0.2.ipa",
+      "versionDescription" : "• YouTube updated to v19.39.1\n• uYouEnhanced replaced with YTLiteFull v5.0.2",
+      "size" : 106000000,
       "versions" : [
+        {
+          "version" : "19.39.1",
+          "date" : "2024-10-09",
+          "localizedDescription" : "• YouTube updated to v19.39.1\n• uYouEnhanced replaced with YTLiteFull v5.0.2",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v19.39.1.+.YTLiteFull.v5.0.2.ipa",
+          "size" : 106000000
+        },
         {
           "version" : "19.16.3",
           "date" : "2024-04-30",
@@ -755,10 +763,10 @@
       "notify" : true
     },
     {
-      "title" : "YouTube++ Updated!",
+      "title" : "YouTube++ Updated! New Tweak!",
       "identifier" : "youtube-updated",
-      "caption" : "YouTube++ has been updated to the latest version, downloading fixed. Click here for more info",
-      "date" : "2024-04-30",
+      "caption" : "YouTube++ has been updated with a new tweak, bringing more features!",
+      "date" : "2024-10-09",
       "tintColor" : "af0001",
       "imageURL" : "https://i.imgur.com/W7zL04X.jpeg",
       "appID" : "com.google.ios.youtube",

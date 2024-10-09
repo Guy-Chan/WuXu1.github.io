@@ -306,9 +306,9 @@
     {
       "name" : "BeReal++",
       "bundleIdentifier" : "AlexisBarreyat.BeReal",
-      "developerName" : "Avangelista",
+      "developerName" : "Yandevelop",
       "subtitle" : "See your friends BeReals without posting anything!",
-      "localizedDescription" : "Tap the “BeFake” text (It may be blank) at the top of the screen to upload BeReals from the camera roll\n\nView BeReals without posting your own\n• Upload BeReals from the camera roll:\n\t- Post on time, even if you're posting late\n\t- Set a custom location\n\t- Set a custom retake count\n\t- Add what you're currently playing or add a song\n• Download BeReals",
+      "localizedDescription" : "Tap the “BeReal+” text (It may be blank) at the top of the screen to upload BeReals from the camera roll\n\nView BeReals without posting your own\n• Upload BeReals from the camera roll:\n\t- Post on time, even if you're posting late\n\t- Set a custom location\n\t- Set a custom retake count\n\t- Add what you're currently playing or add a song\n• Download BeReals",
       "iconURL" : "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.webp",
       "tintColor" : "0b0b0b",
       "category" : "Social",
@@ -320,12 +320,19 @@
         "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-5.webp",
         "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-6.webp"
       ],
-      "version" : "2.13.1",
-      "versionDate" : "2024-04-30",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v2.13.1.+.Bea.v1.3.6.ipa",
-      "versionDescription" : "• Updated BeReal to v2.13.1\n• Updated Bea to v1.3.6",
-      "size" : 35700000,
+      "version" : "2.14.2",
+      "versionDate" : "2024-10-09",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v2.14.2.+.Bea.v1.3.8.ipa",
+      "versionDescription" : "• Updated BeReal to v2.14.2\n• Updated Bea to v1.3.8",
+      "size" : 63800000,
       "versions" : [
+        {
+          "version" : "2.14.2",
+          "date" : "2024-10-09",
+          "localizedDescription" : "• Updated BeReal to v2.14.2\n• Updated Bea to v1.3.8",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v2.14.2.+.Bea.v1.3.8.ipa",
+          "size" : 63800000
+        },
         {
           "version" : "2.13.1",
           "date" : "2024-04-30",
@@ -712,7 +719,7 @@
       "title" : "BeReal++ Updated!",
       "identifier" : "bereal-updated",
       "caption" : "BeReal++ has been updated to the latest version, click here for more info",
-      "date" : "2024-04-30",
+      "date" : "2024-10-09",
       "tintColor" : "131313",
       "imageURL" : "https://i.imgur.com/YuwXfHb.jpeg",
       "appID" : "AlexisBarreyat.BeReal",

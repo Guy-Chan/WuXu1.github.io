@@ -73,8 +73,9 @@
           "aps-environment",
           "com.apple.developer.healthkit.access",
           "com.apple.developer.applesignin",
-          "com.apple.developer.siri\n",
-          "com.apple.developer.weatherkit"
+          "com.apple.developer.siri",
+          "com.apple.developer.weatherkit",
+          "keychain-access-groups"
         ],
         "privacy" : {
           "NSCameraUsageDescription" : "App uses the camera for capturing photos or videos.",

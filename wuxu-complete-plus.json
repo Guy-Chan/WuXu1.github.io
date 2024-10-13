@@ -20,7 +20,7 @@
       "bundleIdentifier" : "com.box.hd.flix.drama.hub",
       "developerName" : "Dezokr",
       "subtitle" : "The All-In-One Movie app for iOS",
-      "localizedDescription" : "WHEN YOU FIRST OPEN THE APP IT WILL LLOK LIKE SOMETHING ELSE JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP\n\nWith HD Flix for iOS you can able to watch any movie/tv show. The User Interface that you see in the app is truly the best thing about it. Easy navigation and responsive design made it stand at the top of the list.\n\nIt will display all the trending content from Action, Comedy, Sci-Fi and other genres at the home page for the best user experience. Moreover, you will get to read the complete information about any particular movie including IMDB Rating, Year Of Release, Start Cast, etc.",
+      "localizedDescription" : "WHEN YOU FIRST OPEN THE APP IT WILL LOOK LIKE A DIFFERENT APP JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP\n\nWith HD Flix for iOS you can able to watch any movie/tv show. The User Interface that you see in the app is truly the best thing about it. Easy navigation and responsive design made it stand at the top of the list.\n\nIt will display all the trending content from Action, Comedy, Sci-Fi and other genres at the home page for the best user experience. Moreover, you will get to read the complete information about any particular movie including IMDB Rating, Year Of Release, Start Cast, etc.",
       "iconURL" : "https://i.imgur.com/3tQFB9N.png",
       "tintColor" : "a01916",
       "category" : "Entertainment",
@@ -48,6 +48,42 @@
           "size" : 2940000
         }
       ],
+      "appPermissions" : {
+        "entitlements" : [
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.driverkit.allow-third-party-userclients",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "com.apple.developer.user-fonts",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.game-center",
+          "com.apple.developer.healthkit.recalibrate-estimates",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.homekit",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.icloud-container-development-container-identifiers",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.networking.networkextension",
+          "com.apple.developer.pass-type-identifiers",
+          "com.apple.developer.networking.vpn.api",
+          "aps-environment",
+          "com.apple.developer.healthkit.access",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.siri\n",
+          "com.apple.developer.weatherkit"
+        ],
+        "privacy" : {
+          "NSCameraUsageDescription" : "App uses the camera for capturing photos or videos.",
+          "NSLocationWhenInUseUsageDescription" : "App uses location when on app.",
+          "NSMicrophoneUsageDescription" : "App uses the microphone to record audio.",
+          "NSPhotoLibraryUsageDescription" : "App accesses the user's photo library.",
+          "NSUserTrackingUsageDescription" : "App tracks user activity for advertising purposes."
+        }
+      },
       "beta" : false
     },
     {

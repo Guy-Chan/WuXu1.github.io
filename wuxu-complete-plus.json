@@ -9,10 +9,10 @@
   "tintColor" : "d81a14",
   "featuredApps" : [
     "com.spotify.client",
-    "com.toyopagroup.picaboo-Wicked",
     "com.burbn.instagram",
     "com.google.ios.youtube",
-    "com.box.hd.flix.drama.hub"
+    "com.box.hd.flix.drama.hub",
+    "com.duolingo.DuolingoMobile"
   ],
   "apps" : [
     {
@@ -90,8 +90,8 @@
     {
       "name" : "X++",
       "bundleIdentifier" : "com.atebits.Tweetie2",
-      "developerName" : "BandarHL",
-      "subtitle" : "An awesome tweak for X!",
+      "developerName" : "Densor",
+      "subtitle" : "An new tweak for X!",
       "localizedDescription" : "Features:\n\n• Download Videos (even if account private).\n• Replay later feature.\n• Video zoom feature.\n• No history feature.\n• Hide topics tweet feature.\n• Disable video layer caption.\n• Padlock.\n• Font changer.\n• Auto load photos in highest quality feature\n• Undo tweet feature.\n• Reader mode feature.\n• Disable new tweet style (A.K.A edge to edge tweet)\n• Enable voice tweet and voice message in DM.\n• Hide promoted tweet from the timeline.\n• Confirm alert when hit the tweet button.\n• Confirm alert when hit like button.\n• FLEX for debugging.\n\n• And more!",
       "iconURL" : "https://i.imgur.com/HjyhiOC.jpeg",
       "tintColor" : "030303",
@@ -103,12 +103,19 @@
         "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-4.webp",
         "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-5.webp"
       ],
-      "version" : "10.62",
-      "versionDate" : "2024-10-09",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v10.62.+.BHTwitter.v4.3-4.ipa",
-      "versionDescription" : "• Updated X to v10.62\n• Updated BHTwitter to v4.3-4",
+      "version" : "10.83",
+      "versionDate" : "2025-03-04",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v10.83.+.TwiGalaxy.v1.1.ipa",
+      "versionDescription" : "• Updated X to v10.83\n• Replaced BHTwitter with TwiGalaxy",
       "size" : 119000000,
       "versions" : [
+        {
+          "version" : "10.83",
+          "date" : "2025-03-04",
+          "localizedDescription" : "• Updated X to v10.83\n• Replaced BHTwitter with TwiGalaxy",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v10.83.+.TwiGalaxy.v1.1.ipa",
+          "size" : 119000000
+        },
         {
           "version" : "10.62",
           "date" : "2024-10-09",
@@ -157,12 +164,19 @@
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-5.webp",
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-6.webp"
       ],
-      "version" : "461.0.3",
-      "versionDate" : "2024-04-30",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v461.0.3.+.Wolf.v2.1.ipa",
-      "versionDescription" : "• Updated Facebook to v461.0.3",
+      "version" : "502.2.0",
+      "versionDate" : "2025-03-04",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v502.2.0.+.Wolf.v2.1.ipa",
+      "versionDescription" : "• Updated Facebook to v502.2.0",
       "size" : 137000000,
       "versions" : [
+        {
+          "version" : "502.2.0",
+          "date" : "2025-03-04",
+          "localizedDescription" : "• Updated Facebook to v502.2.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v502.2.0.+.Wolf.v2.1.ipa",
+          "size" : 137000000
+        },
         {
           "version" : "461.0.3",
           "date" : "2024-04-30",
@@ -188,49 +202,11 @@
       "beta" : false
     },
     {
-      "name" : "Snapchat Wicked",
-      "bundleIdentifier" : "com.toyopagroup.picaboo",
-      "developerName" : "Hearse",
-      "subtitle" : "A Paid Snapchat Tweak with many features!",
-      "localizedDescription" : "NOTE: Notifications may not work.\n\nFEATURES:\n\n\nSAVE/UPLOAD/SEEN FEATURES\n\nSuppress Save to Camera Roll → Suppress notification for saving media in camera roll from chat. Allows for batch saving. (Works only inside chat) Upload Button → Show an overlay button to upload media (Requires restart). Image Editor → Built in image editor when uploading images. Save Button → Show an overlay button to save media. Save Snaps in Folder → Save snaps in a folder organized by usernames instead of gallery. Open Folder → Open saved snaps folder Seen Button For Snaps → Show an overlay button to mark snaps as seen. Seen Button For Stories → Show an overlay button to mark stories as seen. Skip on Seen → Skip to the next snap when marked as seen. Alternatively, pressing the button again will mark as unseen. Stories Auto-Seen → Automatically mark all non-friends stories as seen. ▬▬▬▬▬▬▬▬▬▬▬▬\n\nAUDIO FEATURES\n\nUpload Voice Note → Tap voice note button to upload voice notes. Save Voice Messages → Hold audio message to save in files ▬▬▬▬▬▬▬▬▬▬▬▬\n\nCHAT FEATURES\n\nAuto Save Chat → Automatically save all chats/media. Auto Save Snaps → Automatically save all snaps in chat. (Requires Auto Save Chat to be enabled) Chat Ghost → Open chat without marking messages as seen. Bitmoji presence is also disabled when this option is on Ignore Deleted Chats → Stop chats from being deleted Deleted Chat Color → Color for deleted chats Suppress Typing Notification → Suppress typing notification when typing in chat. No Bitmoji Presence → Do not show bitmoji presence in chat. Chat Swipe → Swipe on any part of the chat to open it. ▬▬▬▬▬▬▬▬▬▬▬▬\n\nRECORDING/SCREENSHOTS FEATURES\n\nScreenshot Confirm → Show a confirmation dialog for sending screenshots notification. Screen Record Supression → Suppress screen recording notifications. Screenshot Supression → Suppress screenshot notifications. Screenshot Button → Show an overlay button to send screenshot notification. ▬▬▬▬▬▬▬▬▬▬▬▬\n\nSPOOF FEATURES\n\nSpoof Added By Search → When adding people in search, it will instead show up as Added by Quick Add. Spoof Location → Use the location selector below to change location. Pick Location → Choose the location from the map (Requires enabling Spoof Location). Teleport to Friends → Tap a friend on the SnapMap to teleport to them. Spoof Story Views → Enter a number to spoof story views (Leave blank to disable). Spoof Story Screenshots → Enter a number to spoof story screenshots (Leave blank to disable). ▬▬▬▬▬▬▬▬▬▬▬▬\n\nWICKED INTERFACE FEATURES\n\nDisable Icons → Disable custom account/settings icon to hide presence of wicked (Requires restart). Button Size → Size of all buttons Lock Buttons → Lock the position of the buttons and disable movement. Reset Button Layout → Restore button positions to default configuration. ▬▬▬▬▬▬▬▬▬▬▬▬\n\nSNAPCHAT INTERFACE FEATURES\n\nChange Icon → Change app icon. Hide New Chat Button → Hide the blue button on the bottom on recent UI versions. No Map Swipe → Disable swiping to SnapMap. Open Link Default → Open links in chat using safari. Hide Call Buttons → Hide the call buttons in chat. Hide Discover → Removes the Discover stories section. Hide Quick Add → Removes the Quick Add section from the chat page. Loop Media → Content will loop rather than skip to the next. ▬▬▬▬▬▬▬▬▬▬▬▬\n\nMISC FEATURES\n\nCall Confirm → Show a confirmation dialog before making calls. Show Banners → Enable banners notifications for some interactions (saving, marking as seen). Keep Sent Snaps → Sent snaps will be shown only in your side of the chat, so you may know what snaps you've sent. ▬▬▬▬▬▬▬▬▬▬▬▬\n\nEXPERIMENTS (NO SUPPORT) FEATURES\n\nSpam Screenshots → Spam 100 screenshots in chat (camera button in input bar to toggle) No Bitmojis → Do not render bitmojis Disable Ads → Block all Snapchat advertisements. Randomize Best Friends → Randomly change the order of the best friends list. Hide Friendmoji → Hide the friendmojis in chat page (Not Bitmoji. Requires pull to refresh). Spoof Badge → Enter a number to spoof the application badge number. Exit app to see changes, if you have snapchat in background, it will not work, you need to exit the app each time you want to spoof the badge count. (Leave blank to disable).",
-      "iconURL" : "https://static.appdb.to/images/cydia-1900001263-icon-1696037554.png",
-      "tintColor" : "258e64",
-      "category" : "Social",
-      "screenshotURLs" : [
-        "https://static.appdb.to/images/cydia-1900001263-iphone-0-1696037554.png",
-        "https://static.appdb.to/images/cydia-1900001263-iphone-1-1696037555.png",
-        "https://static.appdb.to/images/cydia-1900001263-iphone-2-1696037555.png",
-        "https://static.appdb.to/images/cydia-1900001263-iphone-3-1696037555.png"
-      ],
-      "version" : "12.83.0",
-      "versionDate" : "2024-06-25",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.83.0.+.Wicked.v3.0.3b.ipa",
-      "versionDescription" : "Wicked IPA is Back!\n\nYOU NEED TO BE LICENSED OTHERWISE THE APP WILL CRASH WHEN TRYING TO LOGIN\n\n• Updated Wicked to v3.0b3\n• Bypasses Bans\n\n\nTHIS IS A BETA, THERE ARE BUGS, READ BELOW:\n\n• When logging in, the app might crash or get stuck on logging in, simply exit or reopen the app and you should be logged in.\n• Accounts will not save when logging out due to a Snapchat bug\n• Each login, all Snapchat settings are reset due to a Snapchat bug\n• There might be some more bugs\n• As always, this is a beta and a third party app, there *can* be risk involved",
-      "size" : 10700000,
-      "versions" : [
-        {
-          "version" : "12.83.0",
-          "date" : "2024-06-25",
-          "localizedDescription" : "Wicked IPA is Back!\n\nYOU NEED TO BE LICENSED OTHERWISE THE APP WILL CRASH WHEN TRYING TO LOGIN\n\n• Updated Wicked to v3.0b3\n• Bypasses Bans\n\n\nTHIS IS A BETA, THERE ARE BUGS, READ BELOW:\n\n• When logging in, the app might crash or get stuck on logging in, simply exit or reopen the app and you should be logged in.\n• Accounts will not save when logging out due to a Snapchat bug\n• Each login, all Snapchat settings are reset due to a Snapchat bug\n• There might be some more bugs\n• As always, this is a beta and a third party app, there *can* be risk involved",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.83.0.+.Wicked.v3.0.3b.ipa",
-          "size" : 10700000
-        },
-        {
-          "version" : "12.47.0",
-          "date" : "2023-10-19",
-          "localizedDescription" : "• Updated Snapchat to v12.47.0",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Snapchat.v12.47.0.+.Wicked.v2.0.3a.ipa",
-          "size" : 97100000
-        }
-      ],
-      "beta" : true
-    },
-    {
       "name" : "TikTok++",
       "bundleIdentifier" : "com.zhiliaoapp.musically",
-      "developerName" : "BandarHL",
+      "developerName" : "aJBbo",
       "subtitle" : "TikTok with added features.",
-      "localizedDescription" : "BHTikTok - An awesome tweak for TikTok!\n\nFeatures:\n\n• No Ads\n• Download Videos\n• Download Musics\n• Show/Hide UI button\n• Copy video decription\n• Copy video link\n• Copy Music link\n• Auto Play Next Video\n• Show progress bar\n• Confirm like\n• Confirm comment like\n• Confirm comment dislike\n• Confirm follow\n• Save profile image\n• Copy profile information\n• Extend bio\n• Extend comment\n• Always open in Safari\n• Changing region\n• Fake verify blue mark\n• Fake Follower count\n• Fake Following count\n• Padlock",
+      "localizedDescription" : "AC - An awesome tweak for TikTok!\n\nFeatures:\n\n• No Ads\n• Download Videos\n• Download Musics\n• Show/Hide UI button\n• Copy video decription\n• Copy video link\n• Copy Music link\n• Auto Play Next Video\n• Show progress bar\n• Confirm like\n• Confirm comment like\n• Confirm comment dislike\n• Confirm follow\n• Save profile image\n• Copy profile information\n• Extend bio\n• Extend comment\n• Always open in Safari\n• Changing region\n• Fake verify blue mark\n• Fake Follower count\n• Fake Following count\n• Padlock",
       "iconURL" : "https://img.ipa4fun.com/06/ac/ac/835599320-logo.webp",
       "tintColor" : "0b0b0b",
       "category" : "Social",
@@ -241,12 +217,19 @@
         "https://i.imgur.com/bia0rue.jpeg",
         "https://i.imgur.com/tJtEO1r.jpeg"
       ],
-      "version" : "32.2.0",
-      "versionDate" : "2024-04-30",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v32.2.0.+.BH+.v2.3.ipa",
-      "versionDescription" : "• Updated TikTok to v32.2.0\n• Replaced TikTokLRD with BHTikTok",
+      "version" : "38.7.0",
+      "versionDate" : "2025-03-04",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v38.7.0.+.AC.v2.0.ipa",
+      "versionDescription" : "• Updated TikTok to v38.7.0\n• Replaced BHTikTok with AC",
       "size" : 226000000,
       "versions" : [
+        {
+          "version" : "38.7.0",
+          "date" : "2025-03-04",
+          "localizedDescription" : "• Updated TikTok to v38.7.0\n• Replaced BHTikTok with AC",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v38.7.0.+.AC.v2.0.ipa",
+          "size" : 226000000
+        },
         {
           "version" : "32.2.0",
           "date" : "2024-04-30",
@@ -260,9 +243,9 @@
     {
       "name" : "Instagram++",
       "bundleIdentifier" : "com.burbn.instagram",
-      "developerName" : "Majd Alfhaily",
+      "developerName" : "Fouad Raheb",
       "subtitle" : "A must-have tweak for Instagram users!",
-      "localizedDescription" : "This App comes with 2 Tweaks: Plus (Cracked) and Rocket (Cracked)\n\nNOTE: DO NOT ENABLE OVERLAPPING TWEAKS (Such as full profile statistics). Will cause app to crash and reinstallation is needed to fix.\n\nRocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.\n\nFeed Enhancements\n• Download posts (Videos and Photos)\n• Repost posts (Videos and Photos)\n• Long press on posts to zoom\n• Copy text captions from posts\n\nStories\n• Save stories to Camera Roll\n• View stories anonymously\n• Manually mark stories as seen\n• Mute and unmute video stories\n• Upload from Camera Roll (Swipe up)\n• Disable auto switch between stories\n• Hide stories bar from feed\n\nProfile\n• Show if other users follow you\n• Long press on profile image to zoom\n• Show exact value of numerical stats\n\nDirect Messages\n• Disable read receipts\n• Save messaged stories to Camera Roll\n• Disable screenshot detection in stories\n\nSpoofing (Local Only)\n• Verify your profile\n• Followers count\n• Following count\n• Uploads count\n\n\nPlus for Instagram is a lightweight, and all-in-one tweak crafted to enhance and unlock Instagram's full potential for users. You can do many things that you can't do before on Instagram with this tweak, including ability to stalk person that you love without them knowing!\n\nFeatures Include:\n\n• See Unsent Direct Message\n• Comment Translation\n• Focus Mode\n• Clean Experience\n• Media Downloader\n• Watch Story or Live without them knowing!\n• Story Video Editor\n• Copy Comment Text\n• Various Confirmation\n• Low Data Mode\n• Show Total Likes & Views\n• Add Unlimited Accounts\n• Full-Resolution Profile Picture\n• Disable Quick Reactions\n• Unlimited Media Replay (Direct Message)\n• Disable Typing... Status (Direct Message)\n• Disable Message Marked as Seen (Direct Message)\n\nAnd More!",
+      "localizedDescription" : "Regram for instagram!\n\nFeed Enhancements\n• Download posts (Videos and Photos)\n• Repost posts (Videos and Photos)\n• Long press on posts to zoom\n• Copy text captions from posts\n\nStories\n• Save stories to Camera Roll\n• View stories anonymously\n• Manually mark stories as seen\n• Mute and unmute video stories\n• Upload from Camera Roll (Swipe up)\n• Disable auto switch between stories\n• Hide stories bar from feed\n\nProfile\n• Show if other users follow you\n• Long press on profile image to zoom\n• Show exact value of numerical stats\n\nDirect Messages\n• Disable read receipts\n• Save messaged stories to Camera Roll\n• Disable screenshot detection in stories\n\nSpoofing (Local Only)\n• Verify your profile\n• Followers count\n• Following count\n• Uploads count\n\nAnd More!",
       "iconURL" : "https://img.ipa4fun.com/ab/4f/56/389801252-logo.webp",
       "tintColor" : "d111c9",
       "category" : "Social",
@@ -273,12 +256,19 @@
         "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-4.webp",
         "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-5.webp"
       ],
-      "version" : "310.0.4",
-      "versionDate" : "2024-04-30",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v310.0.4.+.Rocket+.v3.8.18.+.Plus+.v2.5.0K.ipa",
+      "version" : "356.1.0",
+      "versionDate" : "2025-03-04",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v356.1.0.+.Regram.B15.Cracked.ipa",
       "versionDescription" : "• Updated Instagram to v320.0.4",
       "size" : 117000000,
       "versions" : [
+        {
+          "version" : "356.1.0",
+          "date" : "2025-03-04",
+          "localizedDescription" : "• Updated Instagram to v356.1.0\n• Replaced old instagram tweak with Regram",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v356.1.0.+.Regram.B15.Cracked.ipa",
+          "size" : 117000000
+        },
         {
           "version" : "310.0.4",
           "date" : "2024-04-30",
@@ -317,12 +307,19 @@
         "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-9.webp",
         "https://img.ipa4fun.com/33/7a/25/341232718-screenshot-10.webp"
       ],
-      "version" : "23.24.5",
-      "versionDate" : "2024-04-30",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.Cracked.v23.24.5.ipa",
-      "versionDescription" : "• Updated MyFitnessPal to v23.24.5",
+      "version" : "25.8.0",
+      "versionDate" : "2025-03-04",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.v25.8.0.Cracked.ipa",
+      "versionDescription" : "• Updated MyFitnessPal to v25.8.0",
       "size" : 76600000,
       "versions" : [
+        {
+          "version" : "25.8.0",
+          "date" : "2025-03-04",
+          "localizedDescription" : "• Updated MyFitnessPal to v25.8.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.v25.8.0.Cracked.ipa",
+          "size" : 76600000
+        },
         {
           "version" : "23.24.5",
           "date" : "2024-04-30",
@@ -431,6 +428,54 @@
       "beta" : false
     },
     {
+      "name" : "SoundCloud++",
+      "bundleIdentifier" : "com.soundcloud.TouchApp",
+      "developerName" : "Rov3r",
+      "subtitle" : "SoundCloud with no ads!",
+      "localizedDescription" : "Enhance your SoundCloud experience with the following features:\n\n• Remove Ads\n• Remove Promoted Playlists\n• Remove Upsell Buttons\n\n\nHOW TO INSTALL IF NOT WORKING\n\n(iOS 15):\n\n1. Download the REGULAR SoundCloud app from the app store (IMPORTANT)\n2. Sign in to the app\n3. Delete the app while still signed in\n4. Download the IPA (app file) from the table below.\n5. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n6. Once installed, you can enjoy, as you should be logged in already.\n\n\n(iOS 16):\n\n1. Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.\n2. Download the IPA (app file) from the table below.\n3. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n4. Sign in using your Google or Facebook account\n5. Use the same method uYou used for bypassing the unsafe installation login error\n\n\n(iOS 16) [Method 2]:\n\n1. Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.\n2. Download the REGULAR SoundCloud app from the AppStore\n3. Sign in to the app using Google or Facebook Account sign-in\n4. Delete the app while still signed in\n5. Download the IPA (app file) from the table below.\n6. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n7. Once installed, you can enjoy, as you should be logged in already.",
+      "iconURL" : "https://i.imgur.com/a0VxTYB.jpeg",
+      "tintColor" : "0a0a0a",
+      "screenshotURLs" : [
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-1.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-2.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-3.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-4.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-5.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-6.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-7.webp",
+        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-8.webp"
+      ],
+      "version" : "7.65.4",
+      "versionDate" : "2024-05-10",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.14.0.+.SCMusicPlus.v2.2.1.ipa",
+      "versionDescription" : "• Updated SoundCloud to v7.14.0",
+      "size" : 57600000,
+      "versions" : [
+        {
+          "version" : "7.65.4",
+          "date" : "2025-03-04",
+          "localizedDescription" : "• Updated SoundCloud to v7.65.4",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.65.4.+.SCMusicPlus.v24.9.1-3.ipa",
+          "size" : 57600000
+        },
+        {
+          "version" : "7.14.0",
+          "date" : "2024-05-10",
+          "localizedDescription" : "• Updated SoundCloud to v7.14.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.14.0.+.SCMusicPlus.v2.2.1.ipa",
+          "size" : 57600000
+        },
+        {
+          "version" : "7.2.0",
+          "date" : "2023-10-22",
+          "localizedDescription" : "• Updated SoundCloud to v7.2.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.2.0.+.SCMusicPlus.v2.2.1.ipa",
+          "size" : 47600000
+        }
+      ],
+      "beta" : false
+    },
+    {
       "name" : "Spotify++ (NEW)",
       "bundleIdentifier" : "com.spotify.client",
       "developerName" : "Eevee",
@@ -447,12 +492,19 @@
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.webp",
         "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.webp"
       ],
-      "version" : "8.9.80",
-      "versionDate" : "2024-10-09",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.42.+.Eevee.v4.0.ipa",
-      "versionDescription" : "(5.4 - Current)\n\n• Updated Ukrainian localization by @LIKVIDATOR1337\n• Updated Turkish localization by @gototheskinny\n• Updated Danish localization by @UnexcitingDean\n\n(5.3)\n\n• Liked Songs on artist page\n• Improved Reset Data option (now clears /Library/Caches/ too, progress animation)\n• Updated dumped configuration; fixed app crashes when clicking on three dots on song page\n• Updated swift-protobuf to 1.28.1 and Swift to version 6 (Xcode 16.0)\n• Fixed Download action app crashes, improved its hooking logic\n• PetitLyrics is now available for everyone\n• Updated Simplified Chinese localization by @xiangfeidexiaohuo\n• Updated Traditional Chinese localizaton by @ElliotCHEN37\n• Updated Vietnamese localization by @Richard-NDC\n\n(5.2)\n\n• Brazil loc by @emal0n\n• French localization corrections by @5jd\n\n(5.1)\n\n• French localization by @5jd\n\n(5.0)\n\n• Danish localization by @UnexcitingDean\n• Swiss German localization by @An0n-00\n• Polish localization by @CukierDev\n• Nepalese localization by @3xynos7\n• German localization corrections by @wlxxd\n• Azerbaijani localization by @by3lish\n\n(4.9)\n\n• Musixmatch source support for local files\n• Lyrics colors support for local files\n• Bulgarian localization by @schweppes-0x\n• Traditional Chinese localization corrections by @Neo1102\n• Korean localization by @speedyfriend433\n• Vietnamese localization by @Richard-NDC\n• German localization by @wlxxd\n• Persian localization by @Incognito-Coder\n\n(4.8)\n\n• Fixed original lyrics colors\n• Spanish localization by @longopy\n• Simplified Chinese localization by @xiangfeidexiaohuo\n• Italian localization by @LivioZ\n• Russian localization\n• Ukrainian localization by @LIKVIDATOR1337\n• Turkish localization by @gototheskinny\n• Traditional Chinese localization by @ElliotCHEN37\n\n(4.7)\n\n• Fixed lyrics not appearing issue\n• Fixed Premium patching for recent versions; removed static method\n• Musixmatch romanization and translation now work simultaneously\n• Added localizations support; feel free to open pull requests with your .lproj\n\n(4.6)\n\n• Fixed popups white background bug on iPad\n\n(4.5)\n\n• Musixmatch lyrics translation is now integrated natively\n• Local lyrics romanization for all sources\n• PetitLyrics source (only for Japanese users)\n• Added instrumental lyrics message\n• Fixed Musixmatch language code issues for some languages\n• Fixed native popups white background bug agian\n• Other minor improvements\n\n(4.4)\n\n• Fixed crashes on iOS 14 (Spotify 8.9.8) and added support for 8.9.54\n• Redesigned Settings\n• Option to show romanized lyrics on Musixmatch and Genius\n• Option to show translated Musixmatch lyrics\n• Musixmatch lyrics translation is now integrated natively\n• Local lyrics romanization for all sources\n• PetitLyrics source (only for Japanese users)\n• Added instrumental lyrics message\n• Fixed Musixmatch language code issues for some languages\n• Fixed native popups white background bug agian\n• Other minor improvements\n\n(4.3)\n\n• Fixed \"Couldn't load the lyrics for this song\" message when they are restricted on Musixmatch\n• Option to show fallback reasons in the lyrics card header\n• Updated OpenSpotifySafariExtension no longer mismatches on links like charts.spotify.com\n\n(4.2)\n\n• Real fix for crashes with LRCLIB\n• The tweak now searches only songs on Genius (no articles anymore)\n• Improved URLSession intercepts (fixes #182 and likely resolves login issues)\n• Fixed iPad Musixmatch token and blank area issues\n• Added Lyrics Colors option\n• Added version section and checking for update\n\n(4.1)\n\n• Original colors for lyrics available on Spotify\n• Fixed LRCLIB lyrics crash for some songs and issue of the settings view being too wide on iPad (pull request)\n• Overwrite Configuration option. Try using it if you experience issues like appearing ads; it might help, but it's not guaranteed\n• Musixmatch invalid token popup and better token input\n• Dynamic Premium patching method by default",
+      "version" : "9.0.20",
+      "versionDate" : "2025-03-04",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v9.0.20.+.Eevee.v5.8.7.ipa",
+      "versionDescription" : "• Updated Spotify to v9.0.20\n• Updated Eevee to v5.8.7",
       "size" : 76500000,
       "versions" : [
+        {
+          "version" : "9.0.20",
+          "date" : "2025-03-04",
+          "localizedDescription" : "• Updated Spotify to v9.0.20\n• Updated Eevee to v5.8.7",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v9.0.20.+.Eevee.v5.8.7.ipa",
+          "size" : 76500000
+        },
         {
           "version" : "8.9.80",
           "date" : "2024-10-09",
@@ -580,12 +632,19 @@
         "https://i.imgur.com/tZ2yvOY.jpeg",
         "https://i.imgur.com/ayNc4BB.jpeg"
       ],
-      "version" : "19.39.1",
-      "versionDate" : "2024-10-09",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v19.39.1.+.YTLiteFull.v5.0.2.ipa",
-      "versionDescription" : "• YouTube updated to v19.39.1\n• uYouEnhanced replaced with YTLiteFull v5.0.2",
+      "version" : "20.09.3",
+      "versionDate" : "2025-03-04",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Youtube.v20.09.3.+.YTLite.v5.1.Full.ipa",
+      "versionDescription" : "• YouTube updated to v19.39.1\n• YTLite (Full) updated to v5.1",
       "size" : 106000000,
       "versions" : [
+        {
+          "version" : "20.09.3",
+          "date" : "2025-03-04",
+          "localizedDescription" : "• YouTube updated to v19.39.1\n• YTLite (Full) updated to v5.1",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Youtube.v20.09.3.+.YTLite.v5.1.Full.ipa",
+          "size" : 106000000
+        },
         {
           "version" : "19.39.1",
           "date" : "2024-10-09",
@@ -636,12 +695,19 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/71/50/25/7150254b-c1fe-0f0a-3080-d132ec1df02b/tns.kxzrjpco.png/314x0w.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/66/d8/e5/66d8e526-9452-3aef-929c-1e91c675512a/7c022d98-f86f-4b31-8503-632ddcd73657_6.5-inch-screen9__U00283_U0029.png/314x0w.webp"
       ],
-      "version" : "7.9.0",
-      "versionDate" : "2024-05-11",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.Cracked.v7.9.0.ipa",
-      "versionDescription" : "• Duolingo Updated to v7.9.0",
+      "version" : "7.29.0",
+      "versionDate" : "2025-03-04",
+      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.v7.29.0.Cracked.ipa",
+      "versionDescription" : "• Duolingo Updated to v7.29.0",
       "size" : 101000000,
       "versions" : [
+        {
+          "version" : "7.29.0",
+          "date" : "2025-03-04",
+          "localizedDescription" : "• Duolingo Updated to v7.29.0",
+          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.v7.29.0.Cracked.ipa",
+          "size" : 101000000
+        },
         {
           "version" : "7.9.0",
           "date" : "2024-05-11",
@@ -709,7 +775,7 @@
       "title" : "Snapchat Tweaks...",
       "identifier" : "snapchat-tweaks",
       "caption" : "Due to recent snapchat updates, tweaks have become unusable and bannable. Each tweak dev is currently working on a fix and I will post them here when they do.",
-      "date" : "2024-04-25",
+      "date" : "2025-03-04",
       "tintColor" : "e2e204",
       "imageURL" : "https://i.imgur.com/Z7cCbfj.jpeg",
       "notify" : true
@@ -717,8 +783,8 @@
     {
       "title" : "X++ Updated!",
       "identifier" : "x-updated",
-      "caption" : "X++ has been updated to the latest version! Click Here for more info",
-      "date" : "2024-10-09",
+      "caption" : "X++ has been updated with a new tweak! Click Here for more info",
+      "date" : "2025-03-04",
       "tintColor" : "0f0f0f",
       "imageURL" : "https://i.imgur.com/fTtIng1.jpeg",
       "appID" : "com.atebits.Tweetie2",
@@ -728,27 +794,17 @@
       "title" : "Facebook++ Updated!",
       "identifier" : "facebook-updated",
       "caption" : "Facebook++ has been updated to the latest version, click here for more info",
-      "date" : "2024-04-30",
+      "date" : "2025-03-04",
       "tintColor" : "153267",
       "imageURL" : "https://i.imgur.com/Vh2sSPk.jpeg",
       "appID" : "com.facebook.Facebook",
       "notify" : true
     },
     {
-      "title" : "Snapchat Wicked Updated! Bypass Fixed!",
-      "identifier" : "snapchat-wicked-updated",
-      "caption" : "Snapchat Wicked has been updated to bypass device bans! Click here for more info",
-      "date" : "2024-06-25",
-      "tintColor" : "173c2d",
-      "imageURL" : "https://i.imgur.com/8hb3y5d.jpeg",
-      "appID" : "com.toyopagroup.picaboo",
-      "notify" : true
-    },
-    {
       "title" : "TikTok++ Updated!",
       "identifier" : "tiktok-updated",
-      "caption" : "TikTok++ has been updated to the latest version, click here for more info",
-      "date" : "2024-04-30",
+      "caption" : "TikTok++ has been updated with a new tweak! Click here for more info",
+      "date" : "2025-03-04",
       "tintColor" : "131313",
       "imageURL" : "https://i.imgur.com/xFBKw7B.jpeg",
       "appID" : "com.zhiliaoapp.musically",
@@ -757,8 +813,8 @@
     {
       "title" : "Instagram++ Updated!",
       "identifier" : "instagram-updated",
-      "caption" : "Instagram has been updated to the latest version, click here for more info",
-      "date" : "2024-04-30",
+      "caption" : "Instagram has been updated with a new tweak! Click here for more info",
+      "date" : "2025-03-04",
       "tintColor" : "5c1859",
       "imageURL" : "https://i.imgur.com/b6ifsl3.jpeg",
       "appID" : "com.burbn.instagram",
@@ -768,7 +824,7 @@
       "title" : "MyFitnessPal++ Updated!",
       "identifier" : "myfitnesspal-updated",
       "caption" : "MyFitnessPal++ has been updated to the latest version, click here for more info",
-      "date" : "2024-04-30",
+      "date" : "2025-03-04",
       "tintColor" : "113361",
       "imageURL" : "https://i.imgur.com/xrzvPez.jpeg",
       "appID" : "com.myfitnesspal.mfp",
@@ -795,29 +851,30 @@
       "notify" : false
     },
     {
-      "title" : "SoundCloud++ is no more...",
-      "identifier" : "soundcloud-removed",
-      "caption" : "SoundCloud++ has recently patched its ability to be sideloaded, therefore i've had to remove it from the source.",
-      "date" : "2024-05-10",
+      "title" : "SoundCloud++ has been re-added!",
+      "identifier" : "soundcloud-added",
+      "caption" : "A new SoundCloud tweak has been released! Click here for more info",
+      "date" : "2025-03-04",
       "tintColor" : "131313",
       "imageURL" : "https://i.imgur.com/5pl1dGh.jpeg",
+      "appID" : "",
       "notify" : true
     },
     {
-      "title" : "Spotify++ Updated! Lots of Fixes!",
+      "title" : "Spotify++ Updated!",
       "identifier" : "spotify-updated",
       "caption" : "Spotify++ has been updated to the latest version! Click here for more info",
-      "date" : "2024-10-09",
+      "date" : "2025-03-04",
       "tintColor" : "0e6a32",
       "imageURL" : "https://i.imgur.com/NvxAusn.jpeg",
       "appID" : "com.spotify.client",
       "notify" : true
     },
     {
-      "title" : "YouTube++ Updated! New Tweak!",
+      "title" : "YouTube++ Updated!",
       "identifier" : "youtube-updated",
-      "caption" : "YouTube++ has been updated with a new tweak, bringing more features!",
-      "date" : "2024-10-09",
+      "caption" : "YouTube++ has been updated to the latest version! Click here for more info",
+      "date" : "2025-03-04",
       "tintColor" : "af0001",
       "imageURL" : "https://i.imgur.com/W7zL04X.jpeg",
       "appID" : "com.google.ios.youtube",
@@ -827,7 +884,7 @@
       "title" : "Duolingo++ Updated!",
       "identifier" : "duolingo-added",
       "caption" : "Duolingo++ has been updated to the latest version! Click here for more info",
-      "date" : "2024-05-11",
+      "date" : "2025-03-04",
       "tintColor" : "244200",
       "imageURL" : "https://i.imgur.com/icxcPrT.jpeg",
       "appID" : "com.duolingo.DuolingoMobile",

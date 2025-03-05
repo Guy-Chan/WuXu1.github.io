@@ -28,14 +28,23 @@
         "https://i.imgur.com/aIyWLRP.jpeg",
         "https://i.imgur.com/o5REDKV.jpeg"
       ],
-      "version" : "1.0.2",
+      "version" : "1.0.3",
       "minOSVersion_0" : "14.0.0",
       "maxOSVersion_0" : "17.0.0",
-      "versionDate" : "2024-04-08",
-      "downloadURL" : "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.2/TrollInstallerX.ipa",
-      "versionDescription" : "• Full support for iOS 17.0 beta 1 - 4 on arm64 devices\n\nNote: arm64e support for the above versions is still being worked on.",
-      "size" : 6570000,
+      "versionDate" : "2024-09-12",
+      "downloadURL" : "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
+      "versionDescription" : "• Update for Xcode 15.4+ compilation\n• Removing confusing logging around exploit deinitialisation\n• Fix arm64e devices on iOS 15.7.x that couldn't download the kernelcache by updating libgrabkernel2",
+      "size" : 25800000,
       "versions" : [
+        {
+          "version" : "1.0.3",
+          "minOSVersion_0" : "14.0.0",
+          "maxOSVersion_0" : "17.0.0",
+          "date" : "2024-09-12",
+          "localizedDescription" : "• Update for Xcode 15.4+ compilation\n• Removing confusing logging around exploit deinitialisation\n• Fix arm64e devices on iOS 15.7.x that couldn't download the kernelcache by updating libgrabkernel2",
+          "downloadURL" : "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
+          "size" : 25800000
+        },
         {
           "version" : "1.0.2",
           "minOSVersion_0" : "14.0.0",
@@ -365,14 +374,23 @@
         "https://ellekit.space/dopamine/assets/screenshot_one.png",
         "https://ellekit.space/dopamine/assets/screenshot_two.png"
       ],
-      "version" : "2.1.4",
+      "version" : "2.4.1",
       "minOSVersion_0" : "15.0.0",
       "maxOSVersion_0" : "16.5.1",
-      "versionDate" : "2024-05-07",
-      "downloadURL" : "https://github.com/opa334/Dopamine/releases/download/2.1.4/Dopamine.ipa",
-      "versionDescription" : "• Only automatically fix up permissions of relevant directories inside /var/jb/var/mobile, rather than the entirety of it\n• Skip permission fix up if either /var/jb/var or /var/jb/var/mobile is a symbolic link, previously there was a bootloop risk when either of them point to the real /var or /var/mobile",
-      "size" : 47400000,
+      "versionDate" : "2025-02-25",
+      "downloadURL" : "https://github.com/opa334/Dopamine/releases/download/2.4.1/Dopamine.ipa",
+      "versionDescription" : "• Fix support for iOS 16.0.x [2.4 regression]\n• (See older update notes on official github page as this is only for 2.4.1)",
+      "size" : 47700000,
       "versions" : [
+        {
+          "version" : "2.4.1",
+          "minOSVersion_0" : "15.0.0",
+          "maxOSVersion_0" : "16.5.1",
+          "date" : "2025-02-25",
+          "localizedDescription" : "• Fix support for iOS 16.0.x [2.4 regression]\n• (See older update notes on official github page as this is only for 2.4.1)",
+          "downloadURL" : "https://github.com/opa334/Dopamine/releases/download/2.4.1/Dopamine.ipa",
+          "size" : 47700000
+        },
         {
           "version" : "2.1.4",
           "minOSVersion_0" : "15.0.0",
@@ -721,10 +739,10 @@
   ],
   "news" : [
     {
-      "title" : "TrollInstallerX Added!",
+      "title" : "TrollInstallerX Updated!",
       "identifier" : "trollinstallerx-added",
-      "caption" : "A Universal TrollStore Installer for iOS 14 - 17.0.0 beta 4 has been added to the source! Click here for more info",
-      "date" : "2024-05-11",
+      "caption" : "The Universal TrollStore Installer for iOS 14 - 17.0.0 beta 4 has been updated! Click here for more info",
+      "date" : "2025-03-05",
       "tintColor" : "0363a9",
       "imageURL" : "https://i.imgur.com/wtOgRBC.jpeg",
       "appID" : "com.Alfie.TrollInstallerX",
@@ -821,10 +839,10 @@
       "notify" : false
     },
     {
-      "title" : "Dopamine Added!",
+      "title" : "Dopamine Updated!",
       "identifier" : "dopamine-added",
-      "caption" : "Dopamine, a jailbreak for iOS 15.0 - 16.6.1 has been added to the source! Click here for more info",
-      "date" : "2024-05-11",
+      "caption" : "Dopamine, a jailbreak for iOS 15.0 - 16.6.1 has been updated! Click here for more info",
+      "date" : "2025-03-05",
       "tintColor" : "0d7d65",
       "imageURL" : "https://i.imgur.com/iz36kwo.jpeg",
       "appID" : "com.opa334.Dopamine",
